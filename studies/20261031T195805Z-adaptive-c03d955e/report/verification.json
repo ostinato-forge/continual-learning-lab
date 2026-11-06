@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "checkpoints_evaluated": 40,
+  "training_example_draws_checked": 1474560,
+  "probe_states_reproduced": 600,
+  "probe_forward_examples_checked": 76800,
+  "allocation_batches_checked": 17280,
+  "data_and_starting_weights_paired": true,
+  "probe_access_limited_to_retained_training_data": true,
+  "all_controller_decisions_reproduced": true
+}

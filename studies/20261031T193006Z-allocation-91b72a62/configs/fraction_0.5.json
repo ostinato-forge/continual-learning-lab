@@ -1,0 +1,49 @@
+{
+  "experiment": "replay_allocation_v1_exploration_0.5",
+  "seeds": [
+    601,
+    631,
+    661,
+    691,
+    719,
+    751,
+    787,
+    821,
+    853,
+    887
+  ],
+  "methods": [
+    "replay"
+  ],
+  "tasks": 6,
+  "features": 8,
+  "classes": 4,
+  "train_examples": 512,
+  "validation_examples": 256,
+  "test_examples": 1024,
+  "hidden_width": 256,
+  "steps_per_task": 96,
+  "batch_size": 64,
+  "learning_rate": 0.002,
+  "weight_decay": 0.0001,
+  "memory_capacity": 1024,
+  "replay_fraction": 0.5,
+  "curve_steps": [
+    0,
+    1,
+    4,
+    16,
+    32,
+    64,
+    96
+  ],
+  "target_accuracy": 0.8,
+  "ridge_penalty": 0.01,
+  "cpu_threads": 2,
+  "wall_seconds_limit": 600,
+  "decision": {
+    "retention_margin": 0.05,
+    "acquisition_tolerance": 0.05,
+    "required_seed_wins": 8
+  }
+}

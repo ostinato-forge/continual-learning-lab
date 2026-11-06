@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "checkpoints_evaluated": 50,
+  "training_example_draws_checked": 1843200,
+  "allocation_batches_checked": 23040,
+  "data_and_initial_weights_paired_across_fractions": true,
+  "selection_uses_validation_only": true,
+  "confirmation_seeds_disjoint_from_prior_runs_and_exploration": true,
+  "saved_inputs_and_outputs_unchanged": true
+}

@@ -1,0 +1,718 @@
+{
+  "seed": 1451,
+  "method": "online",
+  "order": [
+    3,
+    4,
+    0,
+    2,
+    1,
+    5
+  ],
+  "parameter_count": 70660,
+  "initial_model_sha256": "b9dac4e87360044408855fdcb5aeef9ee2937313f9d1fc0ac2d1dda057ab4aa6",
+  "final_mean_accuracy": 0.41796875,
+  "mean_acquisition_accuracy": 0.9339192708333334,
+  "old_task_retention_drop": 0.619140625,
+  "updates": 576,
+  "update_examples": 36864,
+  "training_seconds": 4.467931346993282,
+  "evaluation_seconds": 0.5991044009961115,
+  "memory_maintenance_seconds": 6.840999958512839e-06,
+  "method_wall_seconds": 5.076293001000522,
+  "retained_examples": 0,
+  "retained_example_payload_bytes": 0,
+  "target_hits": [
+    {
+      "stage": 0,
+      "first_recorded_step": 16,
+      "unique_examples_at_first_hit": 453
+    },
+    {
+      "stage": 1,
+      "first_recorded_step": 32,
+      "unique_examples_at_first_hit": 501
+    },
+    {
+      "stage": 2,
+      "first_recorded_step": 32,
+      "unique_examples_at_first_hit": 503
+    },
+    {
+      "stage": 3,
+      "first_recorded_step": 96,
+      "unique_examples_at_first_hit": 512
+    },
+    {
+      "stage": 4,
+      "first_recorded_step": 64,
+      "unique_examples_at_first_hit": 512
+    },
+    {
+      "stage": 5,
+      "first_recorded_step": 64,
+      "unique_examples_at_first_hit": 512
+    }
+  ],
+  "stages": [
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 0,
+      "task": 3,
+      "test_accuracy_by_task": [
+        0.33984375,
+        0.2900390625,
+        0.2861328125,
+        0.9296875,
+        0.2978515625,
+        0.2421875
+      ],
+      "current_test_accuracy": 0.9296875,
+      "mean_seen_test_accuracy": 0.9296875,
+      "unique_current_examples_used": 512,
+      "sampled_examples_by_task": {
+        "3": 6144
+      },
+      "past_memory_examples_during_stage": 0,
+      "retained_examples_after_stage": 0,
+      "stage_training_seconds": 0.6443508049942466
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 1,
+      "task": 4,
+      "test_accuracy_by_task": [
+        0.3095703125,
+        0.1982421875,
+        0.248046875,
+        0.26953125,
+        0.9365234375,
+        0.3154296875
+      ],
+      "current_test_accuracy": 0.9365234375,
+      "mean_seen_test_accuracy": 0.60302734375,
+      "unique_current_examples_used": 512,
+      "sampled_examples_by_task": {
+        "3": 0,
+        "4": 6144
+      },
+      "past_memory_examples_during_stage": 0,
+      "retained_examples_after_stage": 0,
+      "stage_training_seconds": 0.7378404440041777
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 2,
+      "task": 0,
+      "test_accuracy_by_task": [
+        0.94921875,
+        0.279296875,
+        0.1728515625,
+        0.310546875,
+        0.365234375,
+        0.380859375
+      ],
+      "current_test_accuracy": 0.94921875,
+      "mean_seen_test_accuracy": 0.5416666666666666,
+      "unique_current_examples_used": 512,
+      "sampled_examples_by_task": {
+        "0": 6144,
+        "3": 0,
+        "4": 0
+      },
+      "past_memory_examples_during_stage": 0,
+      "retained_examples_after_stage": 0,
+      "stage_training_seconds": 0.5428516940028203
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 3,
+      "task": 2,
+      "test_accuracy_by_task": [
+        0.23828125,
+        0.3271484375,
+        0.9130859375,
+        0.2587890625,
+        0.349609375,
+        0.216796875
+      ],
+      "current_test_accuracy": 0.9130859375,
+      "mean_seen_test_accuracy": 0.43994140625,
+      "unique_current_examples_used": 512,
+      "sampled_examples_by_task": {
+        "0": 0,
+        "2": 6144,
+        "3": 0,
+        "4": 0
+      },
+      "past_memory_examples_during_stage": 0,
+      "retained_examples_after_stage": 0,
+      "stage_training_seconds": 0.815747901996474
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 4,
+      "task": 1,
+      "test_accuracy_by_task": [
+        0.2744140625,
+        0.943359375,
+        0.3974609375,
+        0.3466796875,
+        0.1884765625,
+        0.2890625
+      ],
+      "current_test_accuracy": 0.943359375,
+      "mean_seen_test_accuracy": 0.430078125,
+      "unique_current_examples_used": 512,
+      "sampled_examples_by_task": {
+        "0": 0,
+        "1": 6144,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "past_memory_examples_during_stage": 0,
+      "retained_examples_after_stage": 0,
+      "stage_training_seconds": 0.9335261109972635
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 5,
+      "task": 5,
+      "test_accuracy_by_task": [
+        0.3359375,
+        0.3671875,
+        0.2841796875,
+        0.25,
+        0.3388671875,
+        0.931640625
+      ],
+      "current_test_accuracy": 0.931640625,
+      "mean_seen_test_accuracy": 0.41796875,
+      "unique_current_examples_used": 512,
+      "sampled_examples_by_task": {
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 6144
+      },
+      "past_memory_examples_during_stage": 0,
+      "retained_examples_after_stage": 0,
+      "stage_training_seconds": 0.7936143909983002
+    }
+  ],
+  "curves": [
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 0,
+      "task": 3,
+      "step": 0,
+      "validation_accuracy": 0.2890625,
+      "unique_current_examples_used": 0,
+      "current_examples_available": 512,
+      "total_update_examples": 0,
+      "stage_training_seconds": 0.0
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 0,
+      "task": 3,
+      "step": 1,
+      "validation_accuracy": 0.2421875,
+      "unique_current_examples_used": 59,
+      "current_examples_available": 512,
+      "total_update_examples": 64,
+      "stage_training_seconds": 0.00507363099950453
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 0,
+      "task": 3,
+      "step": 4,
+      "validation_accuracy": 0.5,
+      "unique_current_examples_used": 208,
+      "current_examples_available": 512,
+      "total_update_examples": 256,
+      "stage_training_seconds": 0.015643570999600342
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 0,
+      "task": 3,
+      "step": 16,
+      "validation_accuracy": 0.8203125,
+      "unique_current_examples_used": 453,
+      "current_examples_available": 512,
+      "total_update_examples": 1024,
+      "stage_training_seconds": 0.05611617599697638
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 0,
+      "task": 3,
+      "step": 32,
+      "validation_accuracy": 0.921875,
+      "unique_current_examples_used": 503,
+      "current_examples_available": 512,
+      "total_update_examples": 2048,
+      "stage_training_seconds": 0.10864120299629576
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 0,
+      "task": 3,
+      "step": 64,
+      "validation_accuracy": 0.94921875,
+      "unique_current_examples_used": 512,
+      "current_examples_available": 512,
+      "total_update_examples": 4096,
+      "stage_training_seconds": 0.4250858389950736
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 0,
+      "task": 3,
+      "step": 96,
+      "validation_accuracy": 0.953125,
+      "unique_current_examples_used": 512,
+      "current_examples_available": 512,
+      "total_update_examples": 6144,
+      "stage_training_seconds": 0.6443508049942466
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 1,
+      "task": 4,
+      "step": 0,
+      "validation_accuracy": 0.30859375,
+      "unique_current_examples_used": 0,
+      "current_examples_available": 512,
+      "total_update_examples": 6144,
+      "stage_training_seconds": 0.0
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 1,
+      "task": 4,
+      "step": 1,
+      "validation_accuracy": 0.33203125,
+      "unique_current_examples_used": 60,
+      "current_examples_available": 512,
+      "total_update_examples": 6208,
+      "stage_training_seconds": 0.0043664130007528
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 1,
+      "task": 4,
+      "step": 4,
+      "validation_accuracy": 0.3515625,
+      "unique_current_examples_used": 196,
+      "current_examples_available": 512,
+      "total_update_examples": 6400,
+      "stage_training_seconds": 0.015200690000710892
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 1,
+      "task": 4,
+      "step": 16,
+      "validation_accuracy": 0.62109375,
+      "unique_current_examples_used": 446,
+      "current_examples_available": 512,
+      "total_update_examples": 7168,
+      "stage_training_seconds": 0.15867805200286966
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 1,
+      "task": 4,
+      "step": 32,
+      "validation_accuracy": 0.8125,
+      "unique_current_examples_used": 501,
+      "current_examples_available": 512,
+      "total_update_examples": 8192,
+      "stage_training_seconds": 0.20977036200292787
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 1,
+      "task": 4,
+      "step": 64,
+      "validation_accuracy": 0.9296875,
+      "unique_current_examples_used": 512,
+      "current_examples_available": 512,
+      "total_update_examples": 10240,
+      "stage_training_seconds": 0.41811886700361356
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 1,
+      "task": 4,
+      "step": 96,
+      "validation_accuracy": 0.93359375,
+      "unique_current_examples_used": 512,
+      "current_examples_available": 512,
+      "total_update_examples": 12288,
+      "stage_training_seconds": 0.7378404440041777
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 2,
+      "task": 0,
+      "step": 0,
+      "validation_accuracy": 0.33203125,
+      "unique_current_examples_used": 0,
+      "current_examples_available": 512,
+      "total_update_examples": 12288,
+      "stage_training_seconds": 0.0
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 2,
+      "task": 0,
+      "step": 1,
+      "validation_accuracy": 0.34765625,
+      "unique_current_examples_used": 61,
+      "current_examples_available": 512,
+      "total_update_examples": 12352,
+      "stage_training_seconds": 0.0039058160000422504
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 2,
+      "task": 0,
+      "step": 4,
+      "validation_accuracy": 0.3671875,
+      "unique_current_examples_used": 204,
+      "current_examples_available": 512,
+      "total_update_examples": 12544,
+      "stage_training_seconds": 0.01477242000055412
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 2,
+      "task": 0,
+      "step": 16,
+      "validation_accuracy": 0.609375,
+      "unique_current_examples_used": 438,
+      "current_examples_available": 512,
+      "total_update_examples": 13312,
+      "stage_training_seconds": 0.05605974699938088
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 2,
+      "task": 0,
+      "step": 32,
+      "validation_accuracy": 0.80078125,
+      "unique_current_examples_used": 503,
+      "current_examples_available": 512,
+      "total_update_examples": 14336,
+      "stage_training_seconds": 0.11145598300026904
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 2,
+      "task": 0,
+      "step": 64,
+      "validation_accuracy": 0.9140625,
+      "unique_current_examples_used": 511,
+      "current_examples_available": 512,
+      "total_update_examples": 16384,
+      "stage_training_seconds": 0.32730794900362525
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 2,
+      "task": 0,
+      "step": 96,
+      "validation_accuracy": 0.921875,
+      "unique_current_examples_used": 512,
+      "current_examples_available": 512,
+      "total_update_examples": 18432,
+      "stage_training_seconds": 0.5428516940028203
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 3,
+      "task": 2,
+      "step": 0,
+      "validation_accuracy": 0.203125,
+      "unique_current_examples_used": 0,
+      "current_examples_available": 512,
+      "total_update_examples": 18432,
+      "stage_training_seconds": 0.0
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 3,
+      "task": 2,
+      "step": 1,
+      "validation_accuracy": 0.20703125,
+      "unique_current_examples_used": 61,
+      "current_examples_available": 512,
+      "total_update_examples": 18496,
+      "stage_training_seconds": 0.00413778199981607
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 3,
+      "task": 2,
+      "step": 4,
+      "validation_accuracy": 0.24609375,
+      "unique_current_examples_used": 197,
+      "current_examples_available": 512,
+      "total_update_examples": 18688,
+      "stage_training_seconds": 0.015474564998839924
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 3,
+      "task": 2,
+      "step": 16,
+      "validation_accuracy": 0.40234375,
+      "unique_current_examples_used": 443,
+      "current_examples_available": 512,
+      "total_update_examples": 19456,
+      "stage_training_seconds": 0.05712541700086149
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 3,
+      "task": 2,
+      "step": 32,
+      "validation_accuracy": 0.66015625,
+      "unique_current_examples_used": 500,
+      "current_examples_available": 512,
+      "total_update_examples": 20480,
+      "stage_training_seconds": 0.2214269720016091
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 3,
+      "task": 2,
+      "step": 64,
+      "validation_accuracy": 0.796875,
+      "unique_current_examples_used": 512,
+      "current_examples_available": 512,
+      "total_update_examples": 22528,
+      "stage_training_seconds": 0.44968735199927323
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 3,
+      "task": 2,
+      "step": 96,
+      "validation_accuracy": 0.9296875,
+      "unique_current_examples_used": 512,
+      "current_examples_available": 512,
+      "total_update_examples": 24576,
+      "stage_training_seconds": 0.815747901996474
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 4,
+      "task": 1,
+      "step": 0,
+      "validation_accuracy": 0.3515625,
+      "unique_current_examples_used": 0,
+      "current_examples_available": 512,
+      "total_update_examples": 24576,
+      "stage_training_seconds": 0.0
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 4,
+      "task": 1,
+      "step": 1,
+      "validation_accuracy": 0.34765625,
+      "unique_current_examples_used": 61,
+      "current_examples_available": 512,
+      "total_update_examples": 24640,
+      "stage_training_seconds": 0.004995670999960566
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 4,
+      "task": 1,
+      "step": 4,
+      "validation_accuracy": 0.35546875,
+      "unique_current_examples_used": 204,
+      "current_examples_available": 512,
+      "total_update_examples": 24832,
+      "stage_training_seconds": 0.12335561200052325
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 4,
+      "task": 1,
+      "step": 16,
+      "validation_accuracy": 0.484375,
+      "unique_current_examples_used": 450,
+      "current_examples_available": 512,
+      "total_update_examples": 25600,
+      "stage_training_seconds": 0.16751819199907914
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 4,
+      "task": 1,
+      "step": 32,
+      "validation_accuracy": 0.7109375,
+      "unique_current_examples_used": 501,
+      "current_examples_available": 512,
+      "total_update_examples": 26624,
+      "stage_training_seconds": 0.345371694997084
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 4,
+      "task": 1,
+      "step": 64,
+      "validation_accuracy": 0.93359375,
+      "unique_current_examples_used": 512,
+      "current_examples_available": 512,
+      "total_update_examples": 28672,
+      "stage_training_seconds": 0.6053323289970649
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 4,
+      "task": 1,
+      "step": 96,
+      "validation_accuracy": 0.94921875,
+      "unique_current_examples_used": 512,
+      "current_examples_available": 512,
+      "total_update_examples": 30720,
+      "stage_training_seconds": 0.9335261109972635
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 5,
+      "task": 5,
+      "step": 0,
+      "validation_accuracy": 0.32421875,
+      "unique_current_examples_used": 0,
+      "current_examples_available": 512,
+      "total_update_examples": 30720,
+      "stage_training_seconds": 0.0
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 5,
+      "task": 5,
+      "step": 1,
+      "validation_accuracy": 0.32421875,
+      "unique_current_examples_used": 62,
+      "current_examples_available": 512,
+      "total_update_examples": 30784,
+      "stage_training_seconds": 0.004320563999499427
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 5,
+      "task": 5,
+      "step": 4,
+      "validation_accuracy": 0.3359375,
+      "unique_current_examples_used": 196,
+      "current_examples_available": 512,
+      "total_update_examples": 30976,
+      "stage_training_seconds": 0.014821294999819656
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 5,
+      "task": 5,
+      "step": 16,
+      "validation_accuracy": 0.5,
+      "unique_current_examples_used": 445,
+      "current_examples_available": 512,
+      "total_update_examples": 31744,
+      "stage_training_seconds": 0.15836978999868734
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 5,
+      "task": 5,
+      "step": 32,
+      "validation_accuracy": 0.765625,
+      "unique_current_examples_used": 496,
+      "current_examples_available": 512,
+      "total_update_examples": 32768,
+      "stage_training_seconds": 0.21912935599902994
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 5,
+      "task": 5,
+      "step": 64,
+      "validation_accuracy": 0.8828125,
+      "unique_current_examples_used": 512,
+      "current_examples_available": 512,
+      "total_update_examples": 34816,
+      "stage_training_seconds": 0.4318305069964481
+    },
+    {
+      "seed": 1451,
+      "method": "online",
+      "stage": 5,
+      "task": 5,
+      "step": 96,
+      "validation_accuracy": 0.94140625,
+      "unique_current_examples_used": 512,
+      "current_examples_available": 512,
+      "total_update_examples": 36864,
+      "stage_training_seconds": 0.7936143909983002
+    }
+  ]
+}

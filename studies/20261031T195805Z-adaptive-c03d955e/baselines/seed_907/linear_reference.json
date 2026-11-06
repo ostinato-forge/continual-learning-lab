@@ -1,0 +1,17 @@
+{
+  "method": "separate_linear_reference",
+  "final_mean_accuracy": 0.8898111979166666,
+  "test_accuracy_by_task": [
+    0.91015625,
+    0.8798828125,
+    0.875,
+    0.91015625,
+    0.8916015625,
+    0.8720703125
+  ],
+  "parameter_count": 216,
+  "wall_seconds": 0.0834767259657383,
+  "training_examples": 3072,
+  "budget_matched_to_neural_methods": false,
+  "seed": 907
+}

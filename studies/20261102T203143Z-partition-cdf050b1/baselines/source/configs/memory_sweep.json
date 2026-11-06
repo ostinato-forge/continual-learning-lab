@@ -1,0 +1,14 @@
+{
+  "experiment": "memory_capacity_v1",
+  "base_config": "configs/pilot.json",
+  "capacities": [0, 16, 64, 128, 256, 512, 1024],
+  "exploration_seeds": [101, 127, 149, 173, 197, 223, 251, 277, 307, 337],
+  "confirmation_seeds": [401, 433, 463, 499, 541],
+  "replication_capacity": 256,
+  "final_accuracy_target": 0.8,
+  "retention_margin": 0.05,
+  "acquisition_tolerance": 0.05,
+  "required_exploration_successes": 8,
+  "required_confirmation_successes": 4,
+  "wall_seconds_limit": 600
+}

@@ -1,0 +1,17 @@
+{
+  "study_summary_sha256": "52a24e4d1d12923a633cefcd5ee2ea789ade06af20057de1a980eef0b4e6e019",
+  "analysis_source_sha256": "9f0c69b57979cc46d9c63525f199d580b59b1ae3871686c7b72090aa0e9cacdf",
+  "dependency_sha256": {
+    "continual_lab.py": "cf08482ad1734b6209905a1c42e4d8925b99c67ceadeb0e0195095b343a35c9d",
+    "run_experiment.py": "f010b4da6c09c71f21974896fa3faec49217e462b56a67186702b1ab564fbbf8",
+    "verify_run.py": "a18b1097b1d0f936c7ece0a9d5c695ecd17efdb4edfca3e5efe97380b6bf7980",
+    "partition_models.py": "5d056b3b1ba68bdd3a3bc4ada678cf406174b0ddd270ac4525456d7ab14632e6",
+    "partition_training.py": "5b6a1cf387509cda058dc0fc2d2262b65c9bbd33bfcd35a9178206a7daf8a155",
+    "partition_study.py": "48e7fa01c950f5d9e15aea1b221434aa6e680b614bd9b10817652d595bd66ba9",
+    "verify_partition.py": "3009c51933f38b8aac3abe5ec40f5524e7d2881fb8fc4915756af3dda43debb5",
+    "analyze_memory_sweep.py": "e70b81ae50b6851eeffc31e53f7f8e95f2c36d118f2cc250cb2e93f9890a6f35",
+    "analyze_replay_allocation.py": "2ffb9fc34815f04899c41bd43aee20bc2fe6a7fd214e29898099baa0bbb84f70",
+    "memory_sweep.py": "7e47019203892ad0ac562f1971e864b25738c9f6ff3e069145ebaba2b85d9e5a",
+    "replay_allocation.py": "0c0b736e841cb94bf1c22146a78bfe14ebbdf7bf7907a9e85306acbf2c809174"
+  }
+}

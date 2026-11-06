@@ -1,0 +1,31 @@
+{
+  "plan_sha256": "61b387310b43447ed95dfb0512811f25c91816642c9c978ce76f44e0ab4acfdd",
+  "base_sha256": "e17ea7190639c188aaf05c4bf4412921c9cb47e300d9223df8bdcff1a53d0936",
+  "source_sha256": {
+    "HANDOFF.md": "3c9b1d9345f5dc526bd90bb15cf66d6a8e0f423be970fde10153f0e6dbbab2b4",
+    "MEMORY_STUDY.md": "50e7fd2213cace7b458a448d38129efa660536b80a57ed0b155da30a691355ef",
+    "PROTOCOL.md": "78d4749801837a63784cdab0c5a2a41438b94d03fbbe431deab3a82fdf0826e5",
+    "README.md": "2e28663c3697fefc43c3b0bbf505691c70a3ba09e584249f147fc5bd775b7a87",
+    "analyze_memory_sweep.py": "31d1f079cd77e427233d21123563888b252caaec66b304608cb067a2bae675c8",
+    "configs/memory_sweep.json": "42a7cbefb0e354e0bc7e03b04f18bd75b3466f47d5ca54e5766f8d4c2d8874f7",
+    "configs/pilot.json": "cac40bdb91ad28ac832e6c84e026f953b804b60cdf499cc2a702c05b9ac1bc6b",
+    "continual_lab.py": "cf08482ad1734b6209905a1c42e4d8925b99c67ceadeb0e0195095b343a35c9d",
+    "memory_sweep.py": "7e47019203892ad0ac562f1971e864b25738c9f6ff3e069145ebaba2b85d9e5a",
+    "predict.py": "c2b7d876ed0c0d761b8957c546e514cfc5556b100f49859ddfcdc3289fe403a7",
+    "report.py": "e55f767535d34d768e996d5d5e4598666b3369b482d8d7ef22fc02ed1248df27",
+    "requirements.txt": "c3afde3ac012f79dac073f8e86a6dd720726e2d1f477657a1f18cd5e45a54e2b",
+    "run_experiment.py": "f010b4da6c09c71f21974896fa3faec49217e462b56a67186702b1ab564fbbf8",
+    "tests/test_experiment.py": "f65d172aa399a6f0565fad9537d7c4c06e603321719dffddbf1a8da07118f310",
+    "tests/test_memory_sweep.py": "cc417376e43b4f1d1b14ffa84444a0510ec13afe4fc28608d94008a6d103e44a",
+    "verify_run.py": "a18b1097b1d0f936c7ece0a9d5c695ecd17efdb4edfca3e5efe97380b6bf7980"
+  },
+  "config_sha256": {
+    "configs/capacity_0.json": "d6d4f790a22e3e3647693d87f09ec501d25b3e6d10cc66926aa76e362e549e8f",
+    "configs/capacity_16.json": "1a30a0449f5edebfc66ccd542f476484dfcf8ab4708863dcbd4e1f7a60e31a38",
+    "configs/capacity_64.json": "8bc5149857955ce5c3407c7333601d0c45c6e7d52e97d4cd067d8bbaea20c028",
+    "configs/capacity_128.json": "2e29ee31cf1978bf3eb15f7dfdb9a3df1a69ac9c651855e8ff39bf6cfa7b8cbf",
+    "configs/capacity_256.json": "5bcb79ac572a466527ab224d9994b96d65be1e7fa2d16d2b38cb451d07394e4c",
+    "configs/capacity_512.json": "c80cc73095531777b63bf85111bf832d7a45b46d05aa4a8338589192dd99c9bd",
+    "configs/capacity_1024.json": "e8e9b9141837d7d13eea9c548bdd5b40dc638ae72cac8c2d13b90c50aa886cc6"
+  }
+}

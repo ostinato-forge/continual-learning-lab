@@ -1,0 +1,41 @@
+{
+  "status": "completed",
+  "study_id": "20261031T193006Z-allocation-91b72a62",
+  "chosen_fraction": null,
+  "exploration": [
+    {
+      "run": "exploration/fraction_0/20261031T193014Z-91a3288d",
+      "artifacts_sha256": "ea8fdce87bcbb850fa89dded266ba5b0ed164c48aef25cfd5f00770bf20ed426",
+      "wall_seconds": 74.99024530593306,
+      "model_count": 20,
+      "fraction": 0.0
+    },
+    {
+      "run": "exploration/fraction_0.125/20261031T193140Z-dab26dcd",
+      "artifacts_sha256": "7af9b233a9b60dad740d2ca24d3f575a73b884672ebad3fc4385a7812f5acb48",
+      "wall_seconds": 48.270717586856335,
+      "model_count": 10,
+      "fraction": 0.125
+    },
+    {
+      "run": "exploration/fraction_0.25/20261031T193249Z-06682261",
+      "artifacts_sha256": "c8bf14b36e046f964f946449654ddf638428605c5793cc6289ca5a0513114671",
+      "wall_seconds": 88.05829822504893,
+      "model_count": 10,
+      "fraction": 0.25
+    },
+    {
+      "run": "exploration/fraction_0.5/20261031T193436Z-84c86491",
+      "artifacts_sha256": "6860361e60ef7806a2184c26f5d2c9d5685c9457c787f39e91d1ec07a5623216",
+      "wall_seconds": 110.56401310674846,
+      "model_count": 10,
+      "fraction": 0.5
+    }
+  ],
+  "confirmation": null,
+  "paired_reference": null,
+  "selection_sha256": "ac5e92a6c71753e2418f7f4eb3878e07ce3185afc4b3fef912bdcbb5a3523b09",
+  "manifest_sha256": "de86122f8362a81fe268e0b408985eacb0a0b77e6062e7eab05f3907bad64cfd",
+  "wall_seconds": 424.5114827142097,
+  "neural_models": 50
+}

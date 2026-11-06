@@ -1,0 +1,20 @@
+[
+  {
+    "fraction": 0.125,
+    "final": 0,
+    "retention": 10,
+    "acquisition": 10
+  },
+  {
+    "fraction": 0.25,
+    "final": 0,
+    "retention": 10,
+    "acquisition": 10
+  },
+  {
+    "fraction": 0.5,
+    "final": 10,
+    "retention": 10,
+    "acquisition": 7
+  }
+]

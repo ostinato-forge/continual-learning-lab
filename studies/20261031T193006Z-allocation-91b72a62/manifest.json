@@ -1,0 +1,33 @@
+{
+  "plan_sha256": "3c99bde503fe920bd445bf2fa20c62bc0195fcab12aee62a315f92e3b1912e13",
+  "base_sha256": "e17ea7190639c188aaf05c4bf4412921c9cb47e300d9223df8bdcff1a53d0936",
+  "source_sha256": {
+    "HANDOFF.md": "22b6a33f8401ec62f87cbcf3eaa6246476b9adccfc4e0e03784369e1c7278ff9",
+    "MEMORY_STUDY.md": "50e7fd2213cace7b458a448d38129efa660536b80a57ed0b155da30a691355ef",
+    "PROTOCOL.md": "78d4749801837a63784cdab0c5a2a41438b94d03fbbe431deab3a82fdf0826e5",
+    "README.md": "26d7099bb1ffed76f6421706f7ae3e2ff8268f6d59dff28c546fbfd053a9d2ec",
+    "REPLAY_ALLOCATION_STUDY.md": "1f2828f122d4d3fcb174bf2f4e0656058359c4b560879c89287d34a062e23155",
+    "analyze_memory_sweep.py": "e70b81ae50b6851eeffc31e53f7f8e95f2c36d118f2cc250cb2e93f9890a6f35",
+    "analyze_replay_allocation.py": "2ffb9fc34815f04899c41bd43aee20bc2fe6a7fd214e29898099baa0bbb84f70",
+    "configs/memory_sweep.json": "42a7cbefb0e354e0bc7e03b04f18bd75b3466f47d5ca54e5766f8d4c2d8874f7",
+    "configs/pilot.json": "cac40bdb91ad28ac832e6c84e026f953b804b60cdf499cc2a702c05b9ac1bc6b",
+    "configs/replay_allocation.json": "be9177f303647740dcb224652147c7a804ddbeb0185c3d4dba6f4aff3354a550",
+    "continual_lab.py": "cf08482ad1734b6209905a1c42e4d8925b99c67ceadeb0e0195095b343a35c9d",
+    "memory_sweep.py": "7e47019203892ad0ac562f1971e864b25738c9f6ff3e069145ebaba2b85d9e5a",
+    "predict.py": "c2b7d876ed0c0d761b8957c546e514cfc5556b100f49859ddfcdc3289fe403a7",
+    "replay_allocation.py": "0c0b736e841cb94bf1c22146a78bfe14ebbdf7bf7907a9e85306acbf2c809174",
+    "report.py": "e55f767535d34d768e996d5d5e4598666b3369b482d8d7ef22fc02ed1248df27",
+    "requirements.txt": "c3afde3ac012f79dac073f8e86a6dd720726e2d1f477657a1f18cd5e45a54e2b",
+    "run_experiment.py": "f010b4da6c09c71f21974896fa3faec49217e462b56a67186702b1ab564fbbf8",
+    "tests/test_experiment.py": "f65d172aa399a6f0565fad9537d7c4c06e603321719dffddbf1a8da07118f310",
+    "tests/test_memory_sweep.py": "cc417376e43b4f1d1b14ffa84444a0510ec13afe4fc28608d94008a6d103e44a",
+    "tests/test_replay_allocation.py": "9ac820eff1b505bb7d1fe4ccc372c6e721c707c5f989d227cf1353154fece52c",
+    "verify_run.py": "a18b1097b1d0f936c7ece0a9d5c695ecd17efdb4edfca3e5efe97380b6bf7980"
+  },
+  "config_sha256": {
+    "configs/fraction_0.json": "8eb8bcb79e3fe5d6be648711663dcb0d8a232302049ff1176cb4566285871340",
+    "configs/fraction_0.125.json": "4646779be0601b91655ab219f5d70f90c84f64c8da873770a6bfb3cfceda3984",
+    "configs/fraction_0.25.json": "ed2327388bd19f4c946ed1853ae9d7a73aea30323fd2c7a1e3aceef23807de79",
+    "configs/fraction_0.5.json": "5fe7b83c5869632a397594e6b7aee8f6b5d082cfb1c1d04e1c03125f740e2337"
+  }
+}

@@ -1,0 +1,1566 @@
+{
+  "chosen_fraction": null,
+  "choices": [
+    {
+      "fraction": 0.125,
+      "passing_seeds": [],
+      "passing_count": 0,
+      "qualifies": false
+    },
+    {
+      "fraction": 0.25,
+      "passing_seeds": [],
+      "passing_count": 0,
+      "qualifies": false
+    },
+    {
+      "fraction": 0.5,
+      "passing_seeds": [
+        631,
+        661,
+        719,
+        751,
+        787,
+        821,
+        887
+      ],
+      "passing_count": 7,
+      "qualifies": false
+    }
+  ],
+  "selection_basis": "Validation metrics only. Test scores do not enter the selection function.",
+  "cases": [
+    {
+      "fraction": 0.0,
+      "seed": 601,
+      "method": "online",
+      "validation": {
+        "final_mean_accuracy": 0.3723958333333333,
+        "mean_acquisition_accuracy": 0.9309895833333334,
+        "old_task_retention_drop": 0.6703125,
+        "final_accuracy_by_task": [
+          0.359375,
+          0.93359375,
+          0.23046875,
+          0.203125,
+          0.24609375,
+          0.26171875
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.3689778645833333,
+        "mean_acquisition_accuracy": 0.9376627604166666,
+        "old_task_retention_drop": 0.682421875
+      },
+      "training_seconds": 2.2274684733711183,
+      "evaluation_seconds": 0.18315322045236826,
+      "memory_maintenance_seconds": 8.941162377595901e-06,
+      "retained_examples": 0,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.0,
+      "seed": 631,
+      "method": "online",
+      "validation": {
+        "final_mean_accuracy": 0.4153645833333333,
+        "mean_acquisition_accuracy": 0.9361979166666666,
+        "old_task_retention_drop": 0.625,
+        "final_accuracy_by_task": [
+          0.375,
+          0.296875,
+          0.33984375,
+          0.21875,
+          0.9375,
+          0.32421875
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.4187825520833333,
+        "mean_acquisition_accuracy": 0.9381510416666666,
+        "old_task_retention_drop": 0.6232421875
+      },
+      "training_seconds": 2.2629046915099025,
+      "evaluation_seconds": 0.21275482792407274,
+      "memory_maintenance_seconds": 1.0445713996887207e-05,
+      "retained_examples": 0,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.0,
+      "seed": 661,
+      "method": "online",
+      "validation": {
+        "final_mean_accuracy": 0.4244791666666667,
+        "mean_acquisition_accuracy": 0.9368489583333334,
+        "old_task_retention_drop": 0.61484375,
+        "final_accuracy_by_task": [
+          0.41015625,
+          0.16796875,
+          0.29296875,
+          0.94921875,
+          0.33203125,
+          0.39453125
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.4114583333333333,
+        "mean_acquisition_accuracy": 0.9352213541666666,
+        "old_task_retention_drop": 0.628515625
+      },
+      "training_seconds": 2.706876893993467,
+      "evaluation_seconds": 0.2176799736917019,
+      "memory_maintenance_seconds": 9.854789823293686e-06,
+      "retained_examples": 0,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.0,
+      "seed": 691,
+      "method": "online",
+      "validation": {
+        "final_mean_accuracy": 0.37890625,
+        "mean_acquisition_accuracy": 0.9303385416666666,
+        "old_task_retention_drop": 0.66171875,
+        "final_accuracy_by_task": [
+          0.21484375,
+          0.1953125,
+          0.203125,
+          0.9140625,
+          0.36328125,
+          0.3828125
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.3889973958333333,
+        "mean_acquisition_accuracy": 0.9401041666666666,
+        "old_task_retention_drop": 0.661328125
+      },
+      "training_seconds": 2.416695600375533,
+      "evaluation_seconds": 0.18357946956530213,
+      "memory_maintenance_seconds": 9.783077985048294e-06,
+      "retained_examples": 0,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.0,
+      "seed": 719,
+      "method": "online",
+      "validation": {
+        "final_mean_accuracy": 0.390625,
+        "mean_acquisition_accuracy": 0.9342447916666666,
+        "old_task_retention_drop": 0.65234375,
+        "final_accuracy_by_task": [
+          0.16015625,
+          0.3046875,
+          0.94140625,
+          0.26953125,
+          0.3671875,
+          0.30078125
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.4055989583333333,
+        "mean_acquisition_accuracy": 0.9306640625,
+        "old_task_retention_drop": 0.630078125
+      },
+      "training_seconds": 2.7518895189277828,
+      "evaluation_seconds": 0.21276611369103193,
+      "memory_maintenance_seconds": 1.0328833013772964e-05,
+      "retained_examples": 0,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.0,
+      "seed": 751,
+      "method": "online",
+      "validation": {
+        "final_mean_accuracy": 0.3522135416666667,
+        "mean_acquisition_accuracy": 0.9388020833333334,
+        "old_task_retention_drop": 0.70390625,
+        "final_accuracy_by_task": [
+          0.36328125,
+          0.1953125,
+          0.171875,
+          0.1484375,
+          0.296875,
+          0.9375
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.37109375,
+        "mean_acquisition_accuracy": 0.9348958333333334,
+        "old_task_retention_drop": 0.6765625
+      },
+      "training_seconds": 3.3322026054374874,
+      "evaluation_seconds": 0.27496566204354167,
+      "memory_maintenance_seconds": 9.820796549320221e-06,
+      "retained_examples": 0,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.0,
+      "seed": 787,
+      "method": "online",
+      "validation": {
+        "final_mean_accuracy": 0.369140625,
+        "mean_acquisition_accuracy": 0.9303385416666666,
+        "old_task_retention_drop": 0.6734375,
+        "final_accuracy_by_task": [
+          0.40234375,
+          0.21875,
+          0.14453125,
+          0.26171875,
+          0.9453125,
+          0.2421875
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.3704427083333333,
+        "mean_acquisition_accuracy": 0.9353841145833334,
+        "old_task_retention_drop": 0.6779296875
+      },
+      "training_seconds": 3.556644537486136,
+      "evaluation_seconds": 0.2722592153586447,
+      "memory_maintenance_seconds": 1.0507181286811829e-05,
+      "retained_examples": 0,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.0,
+      "seed": 821,
+      "method": "online",
+      "validation": {
+        "final_mean_accuracy": 0.3639322916666667,
+        "mean_acquisition_accuracy": 0.931640625,
+        "old_task_retention_drop": 0.68125,
+        "final_accuracy_by_task": [
+          0.265625,
+          0.1484375,
+          0.9609375,
+          0.12109375,
+          0.44921875,
+          0.23828125
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.3531901041666667,
+        "mean_acquisition_accuracy": 0.93701171875,
+        "old_task_retention_drop": 0.7005859375
+      },
+      "training_seconds": 3.2929273513145745,
+      "evaluation_seconds": 0.2507480401545763,
+      "memory_maintenance_seconds": 1.0211952030658722e-05,
+      "retained_examples": 0,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.0,
+      "seed": 853,
+      "method": "online",
+      "validation": {
+        "final_mean_accuracy": 0.357421875,
+        "mean_acquisition_accuracy": 0.939453125,
+        "old_task_retention_drop": 0.6984375,
+        "final_accuracy_by_task": [
+          0.109375,
+          0.359375,
+          0.2890625,
+          0.1875,
+          0.26953125,
+          0.9296875
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.3557942708333333,
+        "mean_acquisition_accuracy": 0.9404296875,
+        "old_task_retention_drop": 0.7015625
+      },
+      "training_seconds": 4.098602323792875,
+      "evaluation_seconds": 0.3347028265707195,
+      "memory_maintenance_seconds": 1.1097639799118042e-05,
+      "retained_examples": 0,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.0,
+      "seed": 887,
+      "method": "online",
+      "validation": {
+        "final_mean_accuracy": 0.4251302083333333,
+        "mean_acquisition_accuracy": 0.9401041666666666,
+        "old_task_retention_drop": 0.61796875,
+        "final_accuracy_by_task": [
+          0.26171875,
+          0.953125,
+          0.234375,
+          0.3046875,
+          0.390625,
+          0.40625
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.4156901041666667,
+        "mean_acquisition_accuracy": 0.93408203125,
+        "old_task_retention_drop": 0.6220703125
+      },
+      "training_seconds": 6.09419072419405,
+      "evaluation_seconds": 0.39146459847688675,
+      "memory_maintenance_seconds": 9.554903954267502e-06,
+      "retained_examples": 0,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.125,
+      "seed": 601,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.5657552083333334,
+        "mean_acquisition_accuracy": 0.91796875,
+        "old_task_retention_drop": 0.42265625,
+        "final_accuracy_by_task": [
+          0.453125,
+          0.9140625,
+          0.5546875,
+          0.50390625,
+          0.54296875,
+          0.42578125
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.5861002604166666,
+        "mean_acquisition_accuracy": 0.9236653645833334,
+        "old_task_retention_drop": 0.405078125
+      },
+      "training_seconds": 3.4369355305097997,
+      "evaluation_seconds": 0.3377879001200199,
+      "memory_maintenance_seconds": 0.1461128145456314,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.125,
+      "seed": 631,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.607421875,
+        "mean_acquisition_accuracy": 0.9231770833333334,
+        "old_task_retention_drop": 0.37890625,
+        "final_accuracy_by_task": [
+          0.52734375,
+          0.58203125,
+          0.4921875,
+          0.63671875,
+          0.91015625,
+          0.49609375
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.6061197916666666,
+        "mean_acquisition_accuracy": 0.9205729166666666,
+        "old_task_retention_drop": 0.37734375
+      },
+      "training_seconds": 3.0988673325628042,
+      "evaluation_seconds": 0.19546662829816341,
+      "memory_maintenance_seconds": 0.11921718716621399,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.125,
+      "seed": 661,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.5768229166666666,
+        "mean_acquisition_accuracy": 0.91796875,
+        "old_task_retention_drop": 0.409375,
+        "final_accuracy_by_task": [
+          0.49609375,
+          0.40625,
+          0.5546875,
+          0.9140625,
+          0.50390625,
+          0.5859375
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.5843098958333334,
+        "mean_acquisition_accuracy": 0.9111328125,
+        "old_task_retention_drop": 0.3921875
+      },
+      "training_seconds": 3.331382730510086,
+      "evaluation_seconds": 0.2268108776770532,
+      "memory_maintenance_seconds": 0.13236770033836365,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.125,
+      "seed": 691,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.5638020833333334,
+        "mean_acquisition_accuracy": 0.9244791666666666,
+        "old_task_retention_drop": 0.4328125,
+        "final_accuracy_by_task": [
+          0.36328125,
+          0.51953125,
+          0.34765625,
+          0.94140625,
+          0.59375,
+          0.6171875
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.5771484375,
+        "mean_acquisition_accuracy": 0.9318033854166666,
+        "old_task_retention_drop": 0.4255859375
+      },
+      "training_seconds": 3.6959092561155558,
+      "evaluation_seconds": 0.24993249960243702,
+      "memory_maintenance_seconds": 0.12998413713648915,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.125,
+      "seed": 719,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.6178385416666666,
+        "mean_acquisition_accuracy": 0.90234375,
+        "old_task_retention_drop": 0.34140625,
+        "final_accuracy_by_task": [
+          0.4765625,
+          0.51953125,
+          0.9140625,
+          0.65625,
+          0.58984375,
+          0.55078125
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.6398111979166666,
+        "mean_acquisition_accuracy": 0.9124348958333334,
+        "old_task_retention_drop": 0.3271484375
+      },
+      "training_seconds": 4.442933829501271,
+      "evaluation_seconds": 0.3984792409464717,
+      "memory_maintenance_seconds": 0.1364267971366644,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.125,
+      "seed": 751,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.609375,
+        "mean_acquisition_accuracy": 0.919921875,
+        "old_task_retention_drop": 0.37265625,
+        "final_accuracy_by_task": [
+          0.59765625,
+          0.51953125,
+          0.609375,
+          0.453125,
+          0.57421875,
+          0.90234375
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.6373697916666666,
+        "mean_acquisition_accuracy": 0.9181315104166666,
+        "old_task_retention_drop": 0.3369140625
+      },
+      "training_seconds": 4.6959892231971025,
+      "evaluation_seconds": 0.2898921612650156,
+      "memory_maintenance_seconds": 0.1282810657285154,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.125,
+      "seed": 787,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.6471354166666666,
+        "mean_acquisition_accuracy": 0.9055989583333334,
+        "old_task_retention_drop": 0.31015625,
+        "final_accuracy_by_task": [
+          0.7109375,
+          0.58984375,
+          0.57421875,
+          0.5703125,
+          0.87890625,
+          0.55859375
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.6554361979166666,
+        "mean_acquisition_accuracy": 0.9143880208333334,
+        "old_task_retention_drop": 0.3107421875
+      },
+      "training_seconds": 4.46123114367947,
+      "evaluation_seconds": 0.25221409322693944,
+      "memory_maintenance_seconds": 0.11946616368368268,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.125,
+      "seed": 821,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.5768229166666666,
+        "mean_acquisition_accuracy": 0.9127604166666666,
+        "old_task_retention_drop": 0.403125,
+        "final_accuracy_by_task": [
+          0.5078125,
+          0.40234375,
+          0.9375,
+          0.50390625,
+          0.58203125,
+          0.52734375
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.57177734375,
+        "mean_acquisition_accuracy": 0.9235026041666666,
+        "old_task_retention_drop": 0.4220703125
+      },
+      "training_seconds": 3.5508442665450275,
+      "evaluation_seconds": 0.29644581535831094,
+      "memory_maintenance_seconds": 0.17928659683093429,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.125,
+      "seed": 853,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.6139322916666666,
+        "mean_acquisition_accuracy": 0.9225260416666666,
+        "old_task_retention_drop": 0.3703125,
+        "final_accuracy_by_task": [
+          0.4609375,
+          0.51953125,
+          0.6328125,
+          0.47265625,
+          0.6640625,
+          0.93359375
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.6290690104166666,
+        "mean_acquisition_accuracy": 0.9236653645833334,
+        "old_task_retention_drop": 0.353515625
+      },
+      "training_seconds": 5.657339256256819,
+      "evaluation_seconds": 0.37522610323503613,
+      "memory_maintenance_seconds": 0.1446270290762186,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.125,
+      "seed": 887,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.658203125,
+        "mean_acquisition_accuracy": 0.9231770833333334,
+        "old_task_retention_drop": 0.31796875,
+        "final_accuracy_by_task": [
+          0.63671875,
+          0.9296875,
+          0.59375,
+          0.5625,
+          0.61328125,
+          0.61328125
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.6564127604166666,
+        "mean_acquisition_accuracy": 0.9137369791666666,
+        "old_task_retention_drop": 0.3087890625
+      },
+      "training_seconds": 5.680277864448726,
+      "evaluation_seconds": 0.45075013069435954,
+      "memory_maintenance_seconds": 0.2036204794421792,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.25,
+      "seed": 601,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.7864583333333334,
+        "mean_acquisition_accuracy": 0.904296875,
+        "old_task_retention_drop": 0.14140625,
+        "final_accuracy_by_task": [
+          0.6796875,
+          0.89453125,
+          0.8046875,
+          0.8203125,
+          0.73046875,
+          0.7890625
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.8017578125,
+        "mean_acquisition_accuracy": 0.90966796875,
+        "old_task_retention_drop": 0.1294921875
+      },
+      "training_seconds": 12.21548979403451,
+      "evaluation_seconds": 0.8385268361307681,
+      "memory_maintenance_seconds": 0.24841870088130236,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.25,
+      "seed": 631,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.7877604166666666,
+        "mean_acquisition_accuracy": 0.9055989583333334,
+        "old_task_retention_drop": 0.14140625,
+        "final_accuracy_by_task": [
+          0.70703125,
+          0.796875,
+          0.8125,
+          0.7734375,
+          0.90625,
+          0.73046875
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.7802734375,
+        "mean_acquisition_accuracy": 0.89794921875,
+        "old_task_retention_drop": 0.1412109375
+      },
+      "training_seconds": 6.40506599470973,
+      "evaluation_seconds": 0.5086958580650389,
+      "memory_maintenance_seconds": 0.14303348260000348,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.25,
+      "seed": 661,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.7916666666666666,
+        "mean_acquisition_accuracy": 0.90234375,
+        "old_task_retention_drop": 0.1328125,
+        "final_accuracy_by_task": [
+          0.76171875,
+          0.76953125,
+          0.82421875,
+          0.90625,
+          0.70703125,
+          0.78125
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.787109375,
+        "mean_acquisition_accuracy": 0.8992513020833334,
+        "old_task_retention_drop": 0.1345703125
+      },
+      "training_seconds": 6.462050964124501,
+      "evaluation_seconds": 0.46635662857443094,
+      "memory_maintenance_seconds": 0.14325911877676845,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.25,
+      "seed": 691,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.7721354166666666,
+        "mean_acquisition_accuracy": 0.8977864583333334,
+        "old_task_retention_drop": 0.15078125,
+        "final_accuracy_by_task": [
+          0.72265625,
+          0.71875,
+          0.66796875,
+          0.9140625,
+          0.7890625,
+          0.8203125
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.7750651041666666,
+        "mean_acquisition_accuracy": 0.91552734375,
+        "old_task_retention_drop": 0.1685546875
+      },
+      "training_seconds": 6.705159149132669,
+      "evaluation_seconds": 0.9092220379970968,
+      "memory_maintenance_seconds": 0.1615653787739575,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.25,
+      "seed": 719,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.76953125,
+        "mean_acquisition_accuracy": 0.8971354166666666,
+        "old_task_retention_drop": 0.153125,
+        "final_accuracy_by_task": [
+          0.75,
+          0.6875,
+          0.8984375,
+          0.78125,
+          0.7578125,
+          0.7421875
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.78955078125,
+        "mean_acquisition_accuracy": 0.9000651041666666,
+        "old_task_retention_drop": 0.1326171875
+      },
+      "training_seconds": 6.692219391465187,
+      "evaluation_seconds": 0.5107491170056164,
+      "memory_maintenance_seconds": 0.1267133797518909,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.25,
+      "seed": 751,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.775390625,
+        "mean_acquisition_accuracy": 0.9108072916666666,
+        "old_task_retention_drop": 0.1625,
+        "final_accuracy_by_task": [
+          0.6875,
+          0.76953125,
+          0.7890625,
+          0.76953125,
+          0.7421875,
+          0.89453125
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.7771809895833334,
+        "mean_acquisition_accuracy": 0.9083658854166666,
+        "old_task_retention_drop": 0.157421875
+      },
+      "training_seconds": 5.620283981785178,
+      "evaluation_seconds": 0.540116950403899,
+      "memory_maintenance_seconds": 0.144087343942374,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.25,
+      "seed": 787,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.7877604166666666,
+        "mean_acquisition_accuracy": 0.8997395833333334,
+        "old_task_retention_drop": 0.134375,
+        "final_accuracy_by_task": [
+          0.7578125,
+          0.79296875,
+          0.7421875,
+          0.75390625,
+          0.88671875,
+          0.79296875
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.80810546875,
+        "mean_acquisition_accuracy": 0.9026692708333334,
+        "old_task_retention_drop": 0.1134765625
+      },
+      "training_seconds": 7.134297888260335,
+      "evaluation_seconds": 0.5761700454168022,
+      "memory_maintenance_seconds": 0.17524666106328368,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.25,
+      "seed": 821,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.7786458333333334,
+        "mean_acquisition_accuracy": 0.9010416666666666,
+        "old_task_retention_drop": 0.146875,
+        "final_accuracy_by_task": [
+          0.7421875,
+          0.671875,
+          0.890625,
+          0.82421875,
+          0.75390625,
+          0.7890625
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.7815755208333334,
+        "mean_acquisition_accuracy": 0.9098307291666666,
+        "old_task_retention_drop": 0.15390625
+      },
+      "training_seconds": 9.523288398981094,
+      "evaluation_seconds": 0.8090842217206955,
+      "memory_maintenance_seconds": 0.2981886602938175,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.25,
+      "seed": 853,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.787109375,
+        "mean_acquisition_accuracy": 0.8997395833333334,
+        "old_task_retention_drop": 0.13515625,
+        "final_accuracy_by_task": [
+          0.75390625,
+          0.7890625,
+          0.7578125,
+          0.69921875,
+          0.8359375,
+          0.88671875
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.7980143229166666,
+        "mean_acquisition_accuracy": 0.9034830729166666,
+        "old_task_retention_drop": 0.1265625
+      },
+      "training_seconds": 8.836612217593938,
+      "evaluation_seconds": 0.5927139571867883,
+      "memory_maintenance_seconds": 0.2356013646349311,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.25,
+      "seed": 887,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.7838541666666666,
+        "mean_acquisition_accuracy": 0.91015625,
+        "old_task_retention_drop": 0.1515625,
+        "final_accuracy_by_task": [
+          0.70703125,
+          0.921875,
+          0.86328125,
+          0.703125,
+          0.81640625,
+          0.69140625
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.7828776041666666,
+        "mean_acquisition_accuracy": 0.9016927083333334,
+        "old_task_retention_drop": 0.142578125
+      },
+      "training_seconds": 6.301094219088554,
+      "evaluation_seconds": 0.3892542659305036,
+      "memory_maintenance_seconds": 0.14818569598719478,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.5,
+      "seed": 601,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.8515625,
+        "mean_acquisition_accuracy": 0.873046875,
+        "old_task_retention_drop": 0.02578125,
+        "final_accuracy_by_task": [
+          0.80078125,
+          0.87109375,
+          0.87109375,
+          0.8515625,
+          0.859375,
+          0.85546875
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.8689778645833334,
+        "mean_acquisition_accuracy": 0.8870442708333334,
+        "old_task_retention_drop": 0.0216796875
+      },
+      "training_seconds": 11.022344281896949,
+      "evaluation_seconds": 0.8713884097523987,
+      "memory_maintenance_seconds": 0.2704637716524303,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.5,
+      "seed": 631,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.84765625,
+        "mean_acquisition_accuracy": 0.9029947916666666,
+        "old_task_retention_drop": 0.06640625,
+        "final_accuracy_by_task": [
+          0.80859375,
+          0.8359375,
+          0.88671875,
+          0.80859375,
+          0.88671875,
+          0.859375
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.84912109375,
+        "mean_acquisition_accuracy": 0.8898111979166666,
+        "old_task_retention_drop": 0.048828125
+      },
+      "training_seconds": 7.899118354078382,
+      "evaluation_seconds": 0.5391424582339823,
+      "memory_maintenance_seconds": 0.17110071936622262,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.5,
+      "seed": 661,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.861328125,
+        "mean_acquisition_accuracy": 0.90625,
+        "old_task_retention_drop": 0.05390625,
+        "final_accuracy_by_task": [
+          0.8671875,
+          0.875,
+          0.89453125,
+          0.890625,
+          0.80078125,
+          0.83984375
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.8507486979166666,
+        "mean_acquisition_accuracy": 0.8914388020833334,
+        "old_task_retention_drop": 0.048828125
+      },
+      "training_seconds": 6.513609578832984,
+      "evaluation_seconds": 0.5173535216599703,
+      "memory_maintenance_seconds": 0.16860797116532922,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.5,
+      "seed": 691,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.8561197916666666,
+        "mean_acquisition_accuracy": 0.8736979166666666,
+        "old_task_retention_drop": 0.02109375,
+        "final_accuracy_by_task": [
+          0.85546875,
+          0.828125,
+          0.83984375,
+          0.875,
+          0.87890625,
+          0.859375
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.86865234375,
+        "mean_acquisition_accuracy": 0.8955078125,
+        "old_task_retention_drop": 0.0322265625
+      },
+      "training_seconds": 6.267744693439454,
+      "evaluation_seconds": 0.47759723011404276,
+      "memory_maintenance_seconds": 0.17930470360442996,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.5,
+      "seed": 719,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.83984375,
+        "mean_acquisition_accuracy": 0.8860677083333334,
+        "old_task_retention_drop": 0.05546875,
+        "final_accuracy_by_task": [
+          0.83984375,
+          0.80859375,
+          0.87890625,
+          0.84765625,
+          0.84375,
+          0.8203125
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.8642578125,
+        "mean_acquisition_accuracy": 0.8899739583333334,
+        "old_task_retention_drop": 0.030859375
+      },
+      "training_seconds": 7.664997786283493,
+      "evaluation_seconds": 0.5720952930860221,
+      "memory_maintenance_seconds": 0.18107485445216298,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.5,
+      "seed": 751,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.849609375,
+        "mean_acquisition_accuracy": 0.90234375,
+        "old_task_retention_drop": 0.06328125,
+        "final_accuracy_by_task": [
+          0.78515625,
+          0.83984375,
+          0.85546875,
+          0.87890625,
+          0.86328125,
+          0.875
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.8505859375,
+        "mean_acquisition_accuracy": 0.89111328125,
+        "old_task_retention_drop": 0.0486328125
+      },
+      "training_seconds": 8.32160142576322,
+      "evaluation_seconds": 0.6657437356188893,
+      "memory_maintenance_seconds": 0.16918464936316013,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.5,
+      "seed": 787,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.8307291666666666,
+        "mean_acquisition_accuracy": 0.8912760416666666,
+        "old_task_retention_drop": 0.07265625,
+        "final_accuracy_by_task": [
+          0.7734375,
+          0.84765625,
+          0.8125,
+          0.84375,
+          0.88671875,
+          0.8203125
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.84423828125,
+        "mean_acquisition_accuracy": 0.8844401041666666,
+        "old_task_retention_drop": 0.0482421875
+      },
+      "training_seconds": 9.583418964408338,
+      "evaluation_seconds": 0.4576997132971883,
+      "memory_maintenance_seconds": 0.13463190896436572,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.5,
+      "seed": 821,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.841796875,
+        "mean_acquisition_accuracy": 0.8860677083333334,
+        "old_task_retention_drop": 0.053125,
+        "final_accuracy_by_task": [
+          0.8515625,
+          0.80859375,
+          0.859375,
+          0.84375,
+          0.83984375,
+          0.84765625
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.85009765625,
+        "mean_acquisition_accuracy": 0.8955078125,
+        "old_task_retention_drop": 0.0544921875
+      },
+      "training_seconds": 9.555142334662378,
+      "evaluation_seconds": 0.45998723711818457,
+      "memory_maintenance_seconds": 0.21704923920333385,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.5,
+      "seed": 853,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.8509114583333334,
+        "mean_acquisition_accuracy": 0.875,
+        "old_task_retention_drop": 0.02890625,
+        "final_accuracy_by_task": [
+          0.8828125,
+          0.87890625,
+          0.84765625,
+          0.765625,
+          0.87890625,
+          0.8515625
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.8548177083333334,
+        "mean_acquisition_accuracy": 0.8837890625,
+        "old_task_retention_drop": 0.034765625
+      },
+      "training_seconds": 14.021292633377016,
+      "evaluation_seconds": 1.3944909712299705,
+      "memory_maintenance_seconds": 0.24524436192587018,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    },
+    {
+      "fraction": 0.5,
+      "seed": 887,
+      "method": "replay",
+      "validation": {
+        "final_mean_accuracy": 0.8411458333333334,
+        "mean_acquisition_accuracy": 0.890625,
+        "old_task_retention_drop": 0.059375,
+        "final_accuracy_by_task": [
+          0.8046875,
+          0.90625,
+          0.89453125,
+          0.80078125,
+          0.87109375,
+          0.76953125
+        ]
+      },
+      "test": {
+        "final_mean_accuracy": 0.84814453125,
+        "mean_acquisition_accuracy": 0.8816731770833334,
+        "old_task_retention_drop": 0.040234375
+      },
+      "training_seconds": 17.563901972491294,
+      "evaluation_seconds": 0.918162174988538,
+      "memory_maintenance_seconds": 0.17007114877924323,
+      "retained_examples": 1024,
+      "parameter_count": 70660,
+      "updates": 576,
+      "update_examples": 36864
+    }
+  ],
+  "references": {
+    "full_history": [
+      {
+        "seed": 601,
+        "final_mean_accuracy": 0.8797200520833334,
+        "mean_acquisition_accuracy": 0.8553059895833334,
+        "old_task_retention_drop": -0.029296875
+      },
+      {
+        "seed": 631,
+        "final_mean_accuracy": 0.8689778645833334,
+        "mean_acquisition_accuracy": 0.8694661458333334,
+        "old_task_retention_drop": 0.0005859375
+      },
+      {
+        "seed": 661,
+        "final_mean_accuracy": 0.865234375,
+        "mean_acquisition_accuracy": 0.8427734375,
+        "old_task_retention_drop": -0.026953125
+      },
+      {
+        "seed": 691,
+        "final_mean_accuracy": 0.8806966145833334,
+        "mean_acquisition_accuracy": 0.86083984375,
+        "old_task_retention_drop": -0.023828125
+      },
+      {
+        "seed": 719,
+        "final_mean_accuracy": 0.87060546875,
+        "mean_acquisition_accuracy": 0.8551432291666666,
+        "old_task_retention_drop": -0.0185546875
+      },
+      {
+        "seed": 751,
+        "final_mean_accuracy": 0.8673502604166666,
+        "mean_acquisition_accuracy": 0.8543294270833334,
+        "old_task_retention_drop": -0.015625
+      },
+      {
+        "seed": 787,
+        "final_mean_accuracy": 0.8409830729166666,
+        "mean_acquisition_accuracy": 0.8216145833333334,
+        "old_task_retention_drop": -0.0232421875
+      },
+      {
+        "seed": 821,
+        "final_mean_accuracy": 0.8668619791666666,
+        "mean_acquisition_accuracy": 0.8621419270833334,
+        "old_task_retention_drop": -0.0056640625
+      },
+      {
+        "seed": 853,
+        "final_mean_accuracy": 0.8590494791666666,
+        "mean_acquisition_accuracy": 0.8408203125,
+        "old_task_retention_drop": -0.021875
+      },
+      {
+        "seed": 887,
+        "final_mean_accuracy": 0.8660481770833334,
+        "mean_acquisition_accuracy": 0.8642578125,
+        "old_task_retention_drop": -0.0021484375
+      }
+    ],
+    "linear": [
+      {
+        "method": "separate_linear_reference",
+        "final_mean_accuracy": 0.8826497395833334,
+        "test_accuracy_by_task": [
+          0.9072265625,
+          0.9052734375,
+          0.857421875,
+          0.8623046875,
+          0.8515625,
+          0.912109375
+        ],
+        "parameter_count": 216,
+        "wall_seconds": 0.004592863377183676,
+        "training_examples": 3072,
+        "budget_matched_to_neural_methods": false,
+        "seed": 601
+      },
+      {
+        "method": "separate_linear_reference",
+        "final_mean_accuracy": 0.8893229166666666,
+        "test_accuracy_by_task": [
+          0.8994140625,
+          0.9208984375,
+          0.861328125,
+          0.8896484375,
+          0.87890625,
+          0.8857421875
+        ],
+        "parameter_count": 216,
+        "wall_seconds": 0.0035362797789275646,
+        "training_examples": 3072,
+        "budget_matched_to_neural_methods": false,
+        "seed": 631
+      },
+      {
+        "method": "separate_linear_reference",
+        "final_mean_accuracy": 0.8662109375,
+        "test_accuracy_by_task": [
+          0.8828125,
+          0.853515625,
+          0.8447265625,
+          0.8798828125,
+          0.8759765625,
+          0.8603515625
+        ],
+        "parameter_count": 216,
+        "wall_seconds": 0.0038508372381329536,
+        "training_examples": 3072,
+        "budget_matched_to_neural_methods": false,
+        "seed": 661
+      },
+      {
+        "method": "separate_linear_reference",
+        "final_mean_accuracy": 0.8896484375,
+        "test_accuracy_by_task": [
+          0.8896484375,
+          0.8779296875,
+          0.86328125,
+          0.9111328125,
+          0.9072265625,
+          0.888671875
+        ],
+        "parameter_count": 216,
+        "wall_seconds": 0.004043420776724815,
+        "training_examples": 3072,
+        "budget_matched_to_neural_methods": false,
+        "seed": 691
+      },
+      {
+        "method": "separate_linear_reference",
+        "final_mean_accuracy": 0.8733723958333334,
+        "test_accuracy_by_task": [
+          0.84375,
+          0.8876953125,
+          0.9150390625,
+          0.861328125,
+          0.8720703125,
+          0.8603515625
+        ],
+        "parameter_count": 216,
+        "wall_seconds": 0.0041088019497692585,
+        "training_examples": 3072,
+        "budget_matched_to_neural_methods": false,
+        "seed": 719
+      },
+      {
+        "method": "separate_linear_reference",
+        "final_mean_accuracy": 0.8912760416666666,
+        "test_accuracy_by_task": [
+          0.90625,
+          0.900390625,
+          0.892578125,
+          0.8525390625,
+          0.90625,
+          0.8896484375
+        ],
+        "parameter_count": 216,
+        "wall_seconds": 0.0039033638313412666,
+        "training_examples": 3072,
+        "budget_matched_to_neural_methods": false,
+        "seed": 751
+      },
+      {
+        "method": "separate_linear_reference",
+        "final_mean_accuracy": 0.865234375,
+        "test_accuracy_by_task": [
+          0.876953125,
+          0.837890625,
+          0.8701171875,
+          0.845703125,
+          0.8759765625,
+          0.884765625
+        ],
+        "parameter_count": 216,
+        "wall_seconds": 0.008657850790768862,
+        "training_examples": 3072,
+        "budget_matched_to_neural_methods": false,
+        "seed": 787
+      },
+      {
+        "method": "separate_linear_reference",
+        "final_mean_accuracy": 0.8811848958333334,
+        "test_accuracy_by_task": [
+          0.8955078125,
+          0.892578125,
+          0.8564453125,
+          0.873046875,
+          0.8779296875,
+          0.8916015625
+        ],
+        "parameter_count": 216,
+        "wall_seconds": 0.0053414409048855305,
+        "training_examples": 3072,
+        "budget_matched_to_neural_methods": false,
+        "seed": 821
+      },
+      {
+        "method": "separate_linear_reference",
+        "final_mean_accuracy": 0.8995768229166666,
+        "test_accuracy_by_task": [
+          0.91015625,
+          0.9091796875,
+          0.9111328125,
+          0.8935546875,
+          0.8662109375,
+          0.9072265625
+        ],
+        "parameter_count": 216,
+        "wall_seconds": 0.00416900496929884,
+        "training_examples": 3072,
+        "budget_matched_to_neural_methods": false,
+        "seed": 853
+      },
+      {
+        "method": "separate_linear_reference",
+        "final_mean_accuracy": 0.8790690104166666,
+        "test_accuracy_by_task": [
+          0.841796875,
+          0.896484375,
+          0.8837890625,
+          0.8408203125,
+          0.9091796875,
+          0.90234375
+        ],
+        "parameter_count": 216,
+        "wall_seconds": 0.005271061789244413,
+        "training_examples": 3072,
+        "budget_matched_to_neural_methods": false,
+        "seed": 887
+      }
+    ]
+  },
+  "verification": [
+    {
+      "fraction": 0.0,
+      "status": "passed",
+      "artifact_files_checked": 115,
+      "checkpoints_evaluated": 20,
+      "training_example_draws_checked": 737280,
+      "checks": [
+        "Saved artifact and source hashes match",
+        "Neural training budgets match the frozen configuration",
+        "Neural initial weights are identical within each seed",
+        "Every sampled example was available under its method",
+        "No evaluation or future-task examples entered training",
+        "Final checkpoint predictions reproduce the recorded test scores"
+      ],
+      "allocation_batches_checked": 5760
+    },
+    {
+      "fraction": 0.125,
+      "status": "passed",
+      "artifact_files_checked": 85,
+      "checkpoints_evaluated": 10,
+      "training_example_draws_checked": 368640,
+      "checks": [
+        "Saved artifact and source hashes match",
+        "Neural training budgets match the frozen configuration",
+        "Neural initial weights are identical within each seed",
+        "Every sampled example was available under its method",
+        "No evaluation or future-task examples entered training",
+        "Final checkpoint predictions reproduce the recorded test scores"
+      ],
+      "allocation_batches_checked": 5760
+    },
+    {
+      "fraction": 0.25,
+      "status": "passed",
+      "artifact_files_checked": 85,
+      "checkpoints_evaluated": 10,
+      "training_example_draws_checked": 368640,
+      "checks": [
+        "Saved artifact and source hashes match",
+        "Neural training budgets match the frozen configuration",
+        "Neural initial weights are identical within each seed",
+        "Every sampled example was available under its method",
+        "No evaluation or future-task examples entered training",
+        "Final checkpoint predictions reproduce the recorded test scores"
+      ],
+      "allocation_batches_checked": 5760
+    },
+    {
+      "fraction": 0.5,
+      "status": "passed",
+      "artifact_files_checked": 85,
+      "checkpoints_evaluated": 10,
+      "training_example_draws_checked": 368640,
+      "checks": [
+        "Saved artifact and source hashes match",
+        "Neural training budgets match the frozen configuration",
+        "Neural initial weights are identical within each seed",
+        "Every sampled example was available under its method",
+        "No evaluation or future-task examples entered training",
+        "Final checkpoint predictions reproduce the recorded test scores"
+      ],
+      "allocation_batches_checked": 5760
+    }
+  ],
+  "run_artifact_hashes": {
+    "exploration/fraction_0/20261031T193014Z-91a3288d": "ea8fdce87bcbb850fa89dded266ba5b0ed164c48aef25cfd5f00770bf20ed426",
+    "exploration/fraction_0.125/20261031T193140Z-dab26dcd": "7af9b233a9b60dad740d2ca24d3f575a73b884672ebad3fc4385a7812f5acb48",
+    "exploration/fraction_0.25/20261031T193249Z-06682261": "c8bf14b36e046f964f946449654ddf638428605c5793cc6289ca5a0513114671",
+    "exploration/fraction_0.5/20261031T193436Z-84c86491": "6860361e60ef7806a2184c26f5d2c9d5685c9457c787f39e91d1ec07a5623216"
+  },
+  "dataset_fingerprints": {
+    "601": "6c48ad4fc2f86ccce526c9d87d4d3ff4dfadb9b6197b1a87c728db8742b33010",
+    "631": "6ede9c21889433f1564d428426fb6fbfc83abdbc8ca97cda27609ae4ad892bc2",
+    "661": "e127cd24571854868f107116122f9c062cee360ac7d463cfc19a089bfae0e10a",
+    "691": "38f935d69b968045d89146b6095ffed2aa33abd7f855afdef7b7a8203a801508",
+    "719": "1b643e245629134c1b2688514ef4cac26b73e0f484018a79d8bf4999483f761f",
+    "751": "fbd56f93e505712279d2d71858f66a5c67d1f92024039260b435f58973bda9f1",
+    "787": "6a1eb2e13ae47ae5b9e250bfd023c42ad197654214c74849d6c8dd45c5b8150e",
+    "821": "75df0afb59b44981cd9cc9a90cf60ad403c07368f0555208c65ce87ab6d1624c",
+    "853": "9159ab9a80784ed7245f1001a65597b6c545415211d54a37c961d4442feb8867",
+    "887": "9d708a1b0817c2702dcc78705d006dcff4084c0ba8c6402e439bf0b0b32deb53"
+  },
+  "paired_initial_hashes": {
+    "601": "65951e93376aa62288a61330acc3b04ac1f23e2870adf3dc490fff5e08914389",
+    "631": "c7800d23b5831e0d068bf441c53011f2b7ee9416c2d0411e868d9396b7912ed4",
+    "661": "9d7393cf5ce709a79dba1351cd9272f96912880c91b6ec4b5fb7b759d6984ab0",
+    "691": "a2bb04b968f04a0461182f391f1f8d6b4fa9e5b72a56f40c196d6cc68d7da5ed",
+    "719": "499cac8beb07d18b1d92a44b7a7019be71df6b50ff0b120e44c176c414661615",
+    "751": "a0ec80b77ba14d6995c73a80123f260adac658d61eb6327b15f5fd0c668967fd",
+    "787": "66bf9d385b52c0ef1b28ce37e2b6b479859ebadd711838a372bbe70b6ac5eedd",
+    "821": "c00a34b964f831b6d5b13da421430c685df8b3d4ecb8fe43c6f88f2b67085965",
+    "853": "5c14e37bd52743d4a6b02c055b8e10a60024aeba7be024c48b4c0db7d66eaafd",
+    "887": "c7a502eea3f35188f1fdabdbf373846cfbe811f345ea9afc9dd32c4ad8b1b865"
+  }
+}

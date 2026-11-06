@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "checkpoints_evaluated": 80,
+  "training_example_draws_checked": 2949120,
+  "data_and_initial_weights_paired_across_capacities": true,
+  "selection_uses_validation_only": true,
+  "confirmation_seeds_disjoint_from_pilot_and_exploration": true,
+  "saved_inputs_and_outputs_unchanged": true
+}

@@ -1,0 +1,79 @@
+{
+  "experiment": "task_partition_v1",
+  "base_config": "configs/pilot.json",
+  "seeds": [
+    1231,
+    1259,
+    1283,
+    1307,
+    1321,
+    1361,
+    1399,
+    1423,
+    1451,
+    1483
+  ],
+  "excluded_seeds": [
+    11,
+    23,
+    37,
+    53,
+    71,
+    101,
+    127,
+    149,
+    173,
+    197,
+    223,
+    251,
+    277,
+    307,
+    337,
+    601,
+    631,
+    661,
+    691,
+    719,
+    751,
+    787,
+    821,
+    853,
+    887,
+    907,
+    929,
+    953,
+    977,
+    1009,
+    1031,
+    1051,
+    1087,
+    1109,
+    1151
+  ],
+  "memory_capacity": 1024,
+  "fixed_replay_fraction": 0.5,
+  "parameter_budget": 70660,
+  "max_parameter_gap": 4,
+  "architectures": {
+    "heads": {
+      "kind": "heads",
+      "widths": [
+        245,
+        248
+      ]
+    },
+    "experts": {
+      "kind": "experts",
+      "widths": [
+        96,
+        108
+      ]
+    }
+  },
+  "final_accuracy_target": 0.8,
+  "retention_margin": 0.05,
+  "acquisition_tolerance": 0.05,
+  "required_successes": 8,
+  "cpu_threads": 1,
+  "wall_seconds_limit": 7200
+}

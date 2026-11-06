@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "checkpoints_reproduced": 380,
+  "training_example_draws_checked": 2334720,
+  "protected_components_checked": 1690,
+  "paired_current_batches_checked": 17280,
+  "source_prediction_pairs_checked": 360,
+  "linear_references_reproduced": 30,
+  "datasets_regenerated": 10
+}

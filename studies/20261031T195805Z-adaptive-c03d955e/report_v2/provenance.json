@@ -1,0 +1,16 @@
+{
+  "study_summary_sha256": "5fbb5e9a292920fae9ce828b353327f7e730023a28a7bf33913efdd8df1e7700",
+  "analysis_source_sha256": "aa69dbca667f07eb6297f4401c050f0a9768feb40dc0c19232b291289bd225ce",
+  "dependency_sha256": {
+    "continual_lab.py": "cf08482ad1734b6209905a1c42e4d8925b99c67ceadeb0e0195095b343a35c9d",
+    "run_experiment.py": "f010b4da6c09c71f21974896fa3faec49217e462b56a67186702b1ab564fbbf8",
+    "verify_run.py": "a18b1097b1d0f936c7ece0a9d5c695ecd17efdb4edfca3e5efe97380b6bf7980",
+    "adaptive_controller.py": "67d48510c54c22c5f3d223f15b6369d6f605f1dbbfc9616e9003d0a7457609f8",
+    "adaptive_training.py": "14764acf53735193eb4edf40581b727be0032ec9af0ddc71bbaa6217d5796c16",
+    "adaptive_study.py": "ff2bdb7f37f26e6f8511dde39ac93b7284e3b0121725417a692e1d1a4b08dd17",
+    "analyze_memory_sweep.py": "e70b81ae50b6851eeffc31e53f7f8e95f2c36d118f2cc250cb2e93f9890a6f35",
+    "analyze_replay_allocation.py": "2ffb9fc34815f04899c41bd43aee20bc2fe6a7fd214e29898099baa0bbb84f70",
+    "memory_sweep.py": "7e47019203892ad0ac562f1971e864b25738c9f6ff3e069145ebaba2b85d9e5a",
+    "replay_allocation.py": "0c0b736e841cb94bf1c22146a78bfe14ebbdf7bf7907a9e85306acbf2c809174"
+  }
+}

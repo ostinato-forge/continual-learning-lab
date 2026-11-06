@@ -1,0 +1,16 @@
+{
+  "experiment": "replay_allocation_v1",
+  "base_config": "configs/pilot.json",
+  "memory_capacity": 1024,
+  "replay_fractions": [0.0, 0.125, 0.25, 0.5],
+  "reference_fraction": 0.5,
+  "exploration_seeds": [601, 631, 661, 691, 719, 751, 787, 821, 853, 887],
+  "confirmation_seeds": [401, 433, 463, 499, 541],
+  "excluded_seeds": [11, 23, 37, 53, 71, 101, 127, 149, 173, 197, 223, 251, 277, 307, 337],
+  "final_accuracy_target": 0.8,
+  "retention_margin": 0.05,
+  "acquisition_tolerance": 0.05,
+  "required_exploration_successes": 8,
+  "required_confirmation_successes": 4,
+  "wall_seconds_limit": 600
+}

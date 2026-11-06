@@ -1,0 +1,218 @@
+{
+  "replay": {
+    "passed": true,
+    "passing_count": 9,
+    "required": 8,
+    "pairs": [
+      {
+        "seed": 907,
+        "final_mean_accuracy": 0.8564453125,
+        "retention_improvement": 0.5923828125,
+        "acquisition_change": -0.04703776041666663,
+        "passes": true
+      },
+      {
+        "seed": 929,
+        "final_mean_accuracy": 0.8404947916666666,
+        "retention_improvement": 0.56328125,
+        "acquisition_change": -0.046875,
+        "passes": true
+      },
+      {
+        "seed": 953,
+        "final_mean_accuracy": 0.861328125,
+        "retention_improvement": 0.6554687499999999,
+        "acquisition_change": -0.03580729166666674,
+        "passes": true
+      },
+      {
+        "seed": 977,
+        "final_mean_accuracy": 0.85009765625,
+        "retention_improvement": 0.5796875,
+        "acquisition_change": -0.03092447916666674,
+        "passes": true
+      },
+      {
+        "seed": 1009,
+        "final_mean_accuracy": 0.8528645833333334,
+        "retention_improvement": 0.5499999999999999,
+        "acquisition_change": -0.04703776041666663,
+        "passes": true
+      },
+      {
+        "seed": 1031,
+        "final_mean_accuracy": 0.84130859375,
+        "retention_improvement": 0.5986328125,
+        "acquisition_change": -0.04573567708333337,
+        "passes": true
+      },
+      {
+        "seed": 1051,
+        "final_mean_accuracy": 0.814453125,
+        "retention_improvement": 0.6115234375,
+        "acquisition_change": -0.04833984375,
+        "passes": true
+      },
+      {
+        "seed": 1087,
+        "final_mean_accuracy": 0.86181640625,
+        "retention_improvement": 0.6173828124999999,
+        "acquisition_change": -0.03955078125,
+        "passes": true
+      },
+      {
+        "seed": 1109,
+        "final_mean_accuracy": 0.8347981770833334,
+        "retention_improvement": 0.6083984375,
+        "acquisition_change": -0.05485026041666674,
+        "passes": false
+      },
+      {
+        "seed": 1151,
+        "final_mean_accuracy": 0.84716796875,
+        "retention_improvement": 0.5783203124999999,
+        "acquisition_change": -0.0390625,
+        "passes": true
+      }
+    ]
+  },
+  "adaptive": {
+    "passed": false,
+    "passing_count": 2,
+    "required": 8,
+    "pairs": [
+      {
+        "seed": 907,
+        "final_mean_accuracy": 0.8430989583333334,
+        "retention_improvement": 0.58515625,
+        "acquisition_change": -0.05436197916666663,
+        "passes": false
+      },
+      {
+        "seed": 929,
+        "final_mean_accuracy": 0.7750651041666666,
+        "retention_improvement": 0.4865234375,
+        "acquisition_change": -0.04833984375,
+        "passes": false
+      },
+      {
+        "seed": 953,
+        "final_mean_accuracy": 0.8151041666666666,
+        "retention_improvement": 0.6171875,
+        "acquisition_change": -0.05013020833333337,
+        "passes": false
+      },
+      {
+        "seed": 977,
+        "final_mean_accuracy": 0.8072916666666666,
+        "retention_improvement": 0.5369140625,
+        "acquisition_change": -0.0380859375,
+        "passes": true
+      },
+      {
+        "seed": 1009,
+        "final_mean_accuracy": 0.8059895833333334,
+        "retention_improvement": 0.49453125,
+        "acquisition_change": -0.04768880208333337,
+        "passes": true
+      },
+      {
+        "seed": 1031,
+        "final_mean_accuracy": 0.7244466145833334,
+        "retention_improvement": 0.49570312499999997,
+        "acquisition_change": -0.07682291666666663,
+        "passes": false
+      },
+      {
+        "seed": 1051,
+        "final_mean_accuracy": 0.7999674479166666,
+        "retention_improvement": 0.5861328125,
+        "acquisition_change": -0.04166666666666663,
+        "passes": false
+      },
+      {
+        "seed": 1087,
+        "final_mean_accuracy": 0.8033854166666666,
+        "retention_improvement": 0.5841796874999999,
+        "acquisition_change": -0.0703125,
+        "passes": false
+      },
+      {
+        "seed": 1109,
+        "final_mean_accuracy": 0.7469075520833334,
+        "retention_improvement": 0.505078125,
+        "acquisition_change": -0.056640625,
+        "passes": false
+      },
+      {
+        "seed": 1151,
+        "final_mean_accuracy": 0.7825520833333334,
+        "retention_improvement": 0.5228515625,
+        "acquisition_change": -0.05745442708333326,
+        "passes": false
+      }
+    ]
+  },
+  "adaptive_minus_fixed": [
+    {
+      "seed": 907,
+      "final_mean_accuracy": -0.01334635416666663,
+      "mean_acquisition_accuracy": -0.00732421875,
+      "old_task_retention_drop": 0.007226562499999999
+    },
+    {
+      "seed": 929,
+      "final_mean_accuracy": -0.0654296875,
+      "mean_acquisition_accuracy": -0.00146484375,
+      "old_task_retention_drop": 0.07675781250000001
+    },
+    {
+      "seed": 953,
+      "final_mean_accuracy": -0.04622395833333337,
+      "mean_acquisition_accuracy": -0.01432291666666663,
+      "old_task_retention_drop": 0.03828125
+    },
+    {
+      "seed": 977,
+      "final_mean_accuracy": -0.04280598958333337,
+      "mean_acquisition_accuracy": -0.007161458333333259,
+      "old_task_retention_drop": 0.042773437500000004
+    },
+    {
+      "seed": 1009,
+      "final_mean_accuracy": -0.046875,
+      "mean_acquisition_accuracy": -0.0006510416666667407,
+      "old_task_retention_drop": 0.055468750000000004
+    },
+    {
+      "seed": 1031,
+      "final_mean_accuracy": -0.11686197916666663,
+      "mean_acquisition_accuracy": -0.03108723958333326,
+      "old_task_retention_drop": 0.10292968749999999
+    },
+    {
+      "seed": 1051,
+      "final_mean_accuracy": -0.01448567708333337,
+      "mean_acquisition_accuracy": 0.00667317708333337,
+      "old_task_retention_drop": 0.025390625
+    },
+    {
+      "seed": 1087,
+      "final_mean_accuracy": -0.05843098958333337,
+      "mean_acquisition_accuracy": -0.03076171875,
+      "old_task_retention_drop": 0.033203125
+    },
+    {
+      "seed": 1109,
+      "final_mean_accuracy": -0.087890625,
+      "mean_acquisition_accuracy": -0.0017903645833332593,
+      "old_task_retention_drop": 0.10332031249999998
+    },
+    {
+      "seed": 1151,
+      "final_mean_accuracy": -0.06461588541666663,
+      "mean_acquisition_accuracy": -0.01839192708333326,
+      "old_task_retention_drop": 0.05546875
+    }
+  ]
+}

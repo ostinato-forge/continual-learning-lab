@@ -1,0 +1,6309 @@
+{
+  "probe_states_reproduced": 600,
+  "probe_forward_examples_checked": 76800,
+  "adaptive_allocation_batches_checked": 5760,
+  "observations": [
+    {
+      "seed": 907,
+      "stage": 1,
+      "step": 0,
+      "accuracy": 0.9921875,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 1,
+      "step": 8,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 1,
+      "step": 16,
+      "accuracy": 0.703125,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 1,
+      "step": 24,
+      "accuracy": 0.6796875,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 1,
+      "step": 32,
+      "accuracy": 0.734375,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 1,
+      "step": 40,
+      "accuracy": 0.796875,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 1,
+      "step": 48,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 1,
+      "step": 56,
+      "accuracy": 0.9453125,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 1,
+      "step": 64,
+      "accuracy": 0.96875,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 1,
+      "step": 72,
+      "accuracy": 0.96875,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 1,
+      "step": 80,
+      "accuracy": 0.984375,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 1,
+      "step": 88,
+      "accuracy": 0.9453125,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 2,
+      "step": 0,
+      "accuracy": 0.828125,
+      "reference_accuracy": 0.828125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 2,
+      "step": 8,
+      "accuracy": 0.8203125,
+      "reference_accuracy": 0.828125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 2,
+      "step": 16,
+      "accuracy": 0.609375,
+      "reference_accuracy": 0.828125,
+      "fraction_before": 0.125,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 2,
+      "step": 24,
+      "accuracy": 0.546875,
+      "reference_accuracy": 0.828125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 2,
+      "step": 32,
+      "accuracy": 0.5625,
+      "reference_accuracy": 0.828125,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 2,
+      "step": 40,
+      "accuracy": 0.6796875,
+      "reference_accuracy": 0.828125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 2,
+      "step": 48,
+      "accuracy": 0.8125,
+      "reference_accuracy": 0.828125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 2,
+      "step": 56,
+      "accuracy": 0.859375,
+      "reference_accuracy": 0.828125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 2,
+      "step": 64,
+      "accuracy": 0.859375,
+      "reference_accuracy": 0.828125,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 2,
+      "step": 72,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.828125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 2,
+      "step": 80,
+      "accuracy": 0.828125,
+      "reference_accuracy": 0.828125,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 2,
+      "step": 88,
+      "accuracy": 0.7890625,
+      "reference_accuracy": 0.828125,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 3,
+      "step": 0,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 3,
+      "step": 8,
+      "accuracy": 0.84375,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 3,
+      "step": 16,
+      "accuracy": 0.8203125,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 3,
+      "step": 24,
+      "accuracy": 0.84375,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 3,
+      "step": 32,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 3,
+      "step": 40,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 3,
+      "step": 48,
+      "accuracy": 0.90625,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 3,
+      "step": 56,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 3,
+      "step": 64,
+      "accuracy": 0.84375,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.125,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 3,
+      "step": 72,
+      "accuracy": 0.828125,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 3,
+      "step": 80,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 3,
+      "step": 88,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 4,
+      "step": 0,
+      "accuracy": 0.9375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 4,
+      "step": 8,
+      "accuracy": 0.8125,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 4,
+      "step": 16,
+      "accuracy": 0.7734375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 4,
+      "step": 24,
+      "accuracy": 0.765625,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 4,
+      "step": 32,
+      "accuracy": 0.90625,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 4,
+      "step": 40,
+      "accuracy": 0.9296875,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 4,
+      "step": 48,
+      "accuracy": 0.9609375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 4,
+      "step": 56,
+      "accuracy": 0.9296875,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 4,
+      "step": 64,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 4,
+      "step": 72,
+      "accuracy": 0.8671875,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.125,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 4,
+      "step": 80,
+      "accuracy": 0.8515625,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 4,
+      "step": 88,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 5,
+      "step": 0,
+      "accuracy": 0.921875,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 5,
+      "step": 8,
+      "accuracy": 0.8671875,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 5,
+      "step": 16,
+      "accuracy": 0.75,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 5,
+      "step": 24,
+      "accuracy": 0.796875,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 5,
+      "step": 32,
+      "accuracy": 0.859375,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 5,
+      "step": 40,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 5,
+      "step": 48,
+      "accuracy": 0.921875,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 5,
+      "step": 56,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 5,
+      "step": 64,
+      "accuracy": 0.8515625,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.125,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 5,
+      "step": 72,
+      "accuracy": 0.84375,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 5,
+      "step": 80,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 907,
+      "stage": 5,
+      "step": 88,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 1,
+      "step": 0,
+      "accuracy": 0.96875,
+      "reference_accuracy": 0.96875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 1,
+      "step": 8,
+      "accuracy": 0.8671875,
+      "reference_accuracy": 0.96875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 1,
+      "step": 16,
+      "accuracy": 0.6328125,
+      "reference_accuracy": 0.96875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 1,
+      "step": 24,
+      "accuracy": 0.6640625,
+      "reference_accuracy": 0.96875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 1,
+      "step": 32,
+      "accuracy": 0.8125,
+      "reference_accuracy": 0.96875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 1,
+      "step": 40,
+      "accuracy": 0.90625,
+      "reference_accuracy": 0.96875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 1,
+      "step": 48,
+      "accuracy": 0.9453125,
+      "reference_accuracy": 0.96875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 1,
+      "step": 56,
+      "accuracy": 0.9609375,
+      "reference_accuracy": 0.96875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 1,
+      "step": 64,
+      "accuracy": 0.9609375,
+      "reference_accuracy": 0.96875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 1,
+      "step": 72,
+      "accuracy": 0.921875,
+      "reference_accuracy": 0.96875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 1,
+      "step": 80,
+      "accuracy": 0.8359375,
+      "reference_accuracy": 0.96875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 1,
+      "step": 88,
+      "accuracy": 0.90625,
+      "reference_accuracy": 0.96875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 2,
+      "step": 0,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 2,
+      "step": 8,
+      "accuracy": 0.828125,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 2,
+      "step": 16,
+      "accuracy": 0.7421875,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 2,
+      "step": 24,
+      "accuracy": 0.6796875,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 2,
+      "step": 32,
+      "accuracy": 0.75,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 2,
+      "step": 40,
+      "accuracy": 0.7890625,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 2,
+      "step": 48,
+      "accuracy": 0.828125,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 2,
+      "step": 56,
+      "accuracy": 0.921875,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 2,
+      "step": 64,
+      "accuracy": 0.9375,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 2,
+      "step": 72,
+      "accuracy": 0.8671875,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 2,
+      "step": 80,
+      "accuracy": 0.84375,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 2,
+      "step": 88,
+      "accuracy": 0.828125,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 3,
+      "step": 0,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 3,
+      "step": 8,
+      "accuracy": 0.8203125,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 3,
+      "step": 16,
+      "accuracy": 0.8125,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 3,
+      "step": 24,
+      "accuracy": 0.7734375,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 3,
+      "step": 32,
+      "accuracy": 0.8125,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 3,
+      "step": 40,
+      "accuracy": 0.84375,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 3,
+      "step": 48,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 3,
+      "step": 56,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 3,
+      "step": 64,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 3,
+      "step": 72,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 3,
+      "step": 80,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 3,
+      "step": 88,
+      "accuracy": 0.859375,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 4,
+      "step": 0,
+      "accuracy": 0.90625,
+      "reference_accuracy": 0.90625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 4,
+      "step": 8,
+      "accuracy": 0.8671875,
+      "reference_accuracy": 0.90625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 4,
+      "step": 16,
+      "accuracy": 0.7890625,
+      "reference_accuracy": 0.90625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 4,
+      "step": 24,
+      "accuracy": 0.71875,
+      "reference_accuracy": 0.90625,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 4,
+      "step": 32,
+      "accuracy": 0.796875,
+      "reference_accuracy": 0.90625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 4,
+      "step": 40,
+      "accuracy": 0.84375,
+      "reference_accuracy": 0.90625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 4,
+      "step": 48,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.90625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 4,
+      "step": 56,
+      "accuracy": 0.9296875,
+      "reference_accuracy": 0.90625,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 4,
+      "step": 64,
+      "accuracy": 0.9296875,
+      "reference_accuracy": 0.90625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 4,
+      "step": 72,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.90625,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 4,
+      "step": 80,
+      "accuracy": 0.8671875,
+      "reference_accuracy": 0.90625,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 4,
+      "step": 88,
+      "accuracy": 0.859375,
+      "reference_accuracy": 0.90625,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 5,
+      "step": 0,
+      "accuracy": 0.8671875,
+      "reference_accuracy": 0.8671875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 5,
+      "step": 8,
+      "accuracy": 0.828125,
+      "reference_accuracy": 0.8671875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 5,
+      "step": 16,
+      "accuracy": 0.7421875,
+      "reference_accuracy": 0.8671875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 5,
+      "step": 24,
+      "accuracy": 0.7109375,
+      "reference_accuracy": 0.8671875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 5,
+      "step": 32,
+      "accuracy": 0.8046875,
+      "reference_accuracy": 0.8671875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 5,
+      "step": 40,
+      "accuracy": 0.8203125,
+      "reference_accuracy": 0.8671875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 5,
+      "step": 48,
+      "accuracy": 0.8671875,
+      "reference_accuracy": 0.8671875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 5,
+      "step": 56,
+      "accuracy": 0.921875,
+      "reference_accuracy": 0.8671875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 5,
+      "step": 64,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.8671875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 5,
+      "step": 72,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.8671875,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 5,
+      "step": 80,
+      "accuracy": 0.8515625,
+      "reference_accuracy": 0.8671875,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 929,
+      "stage": 5,
+      "step": 88,
+      "accuracy": 0.8125,
+      "reference_accuracy": 0.8671875,
+      "fraction_before": 0.125,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 1,
+      "step": 0,
+      "accuracy": 0.984375,
+      "reference_accuracy": 0.984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 1,
+      "step": 8,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 1,
+      "step": 16,
+      "accuracy": 0.7734375,
+      "reference_accuracy": 0.984375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 1,
+      "step": 24,
+      "accuracy": 0.7734375,
+      "reference_accuracy": 0.984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 1,
+      "step": 32,
+      "accuracy": 0.8125,
+      "reference_accuracy": 0.984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 1,
+      "step": 40,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 1,
+      "step": 48,
+      "accuracy": 0.9453125,
+      "reference_accuracy": 0.984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 1,
+      "step": 56,
+      "accuracy": 0.9296875,
+      "reference_accuracy": 0.984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 1,
+      "step": 64,
+      "accuracy": 0.953125,
+      "reference_accuracy": 0.984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 1,
+      "step": 72,
+      "accuracy": 0.96875,
+      "reference_accuracy": 0.984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 1,
+      "step": 80,
+      "accuracy": 0.9375,
+      "reference_accuracy": 0.984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 1,
+      "step": 88,
+      "accuracy": 0.9765625,
+      "reference_accuracy": 0.984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 2,
+      "step": 0,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 2,
+      "step": 8,
+      "accuracy": 0.796875,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 2,
+      "step": 16,
+      "accuracy": 0.5859375,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 2,
+      "step": 24,
+      "accuracy": 0.640625,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 2,
+      "step": 32,
+      "accuracy": 0.6640625,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 2,
+      "step": 40,
+      "accuracy": 0.7421875,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 2,
+      "step": 48,
+      "accuracy": 0.8359375,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 2,
+      "step": 56,
+      "accuracy": 0.90625,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 2,
+      "step": 64,
+      "accuracy": 0.859375,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 2,
+      "step": 72,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 2,
+      "step": 80,
+      "accuracy": 0.8515625,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 2,
+      "step": 88,
+      "accuracy": 0.8515625,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 3,
+      "step": 0,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.890625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 3,
+      "step": 8,
+      "accuracy": 0.8125,
+      "reference_accuracy": 0.890625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 3,
+      "step": 16,
+      "accuracy": 0.7578125,
+      "reference_accuracy": 0.890625,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 3,
+      "step": 24,
+      "accuracy": 0.7578125,
+      "reference_accuracy": 0.890625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 3,
+      "step": 32,
+      "accuracy": 0.828125,
+      "reference_accuracy": 0.890625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 3,
+      "step": 40,
+      "accuracy": 0.8671875,
+      "reference_accuracy": 0.890625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 3,
+      "step": 48,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.890625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 3,
+      "step": 56,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.890625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 3,
+      "step": 64,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.890625,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 3,
+      "step": 72,
+      "accuracy": 0.8671875,
+      "reference_accuracy": 0.890625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 3,
+      "step": 80,
+      "accuracy": 0.8515625,
+      "reference_accuracy": 0.890625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 3,
+      "step": 88,
+      "accuracy": 0.8359375,
+      "reference_accuracy": 0.890625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 4,
+      "step": 0,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 4,
+      "step": 8,
+      "accuracy": 0.7734375,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 4,
+      "step": 16,
+      "accuracy": 0.671875,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 4,
+      "step": 24,
+      "accuracy": 0.7578125,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 4,
+      "step": 32,
+      "accuracy": 0.8671875,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 4,
+      "step": 40,
+      "accuracy": 0.9296875,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 4,
+      "step": 48,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 4,
+      "step": 56,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 4,
+      "step": 64,
+      "accuracy": 0.859375,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 4,
+      "step": 72,
+      "accuracy": 0.8125,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.125,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 4,
+      "step": 80,
+      "accuracy": 0.8125,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 4,
+      "step": 88,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 5,
+      "step": 0,
+      "accuracy": 0.9375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 5,
+      "step": 8,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 5,
+      "step": 16,
+      "accuracy": 0.796875,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 5,
+      "step": 24,
+      "accuracy": 0.7578125,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 5,
+      "step": 32,
+      "accuracy": 0.859375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 5,
+      "step": 40,
+      "accuracy": 0.859375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 5,
+      "step": 48,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 5,
+      "step": 56,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 5,
+      "step": 64,
+      "accuracy": 0.9453125,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 5,
+      "step": 72,
+      "accuracy": 0.9375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 5,
+      "step": 80,
+      "accuracy": 0.921875,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 953,
+      "stage": 5,
+      "step": 88,
+      "accuracy": 0.90625,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 1,
+      "step": 0,
+      "accuracy": 0.9921875,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 1,
+      "step": 8,
+      "accuracy": 0.765625,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 1,
+      "step": 16,
+      "accuracy": 0.78125,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 1,
+      "step": 24,
+      "accuracy": 0.7265625,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 1,
+      "step": 32,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 1,
+      "step": 40,
+      "accuracy": 0.9609375,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 1,
+      "step": 48,
+      "accuracy": 0.9375,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 1,
+      "step": 56,
+      "accuracy": 0.9921875,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 1,
+      "step": 64,
+      "accuracy": 0.9765625,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 1,
+      "step": 72,
+      "accuracy": 0.953125,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 1,
+      "step": 80,
+      "accuracy": 0.9609375,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 1,
+      "step": 88,
+      "accuracy": 0.9921875,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 2,
+      "step": 0,
+      "accuracy": 0.9453125,
+      "reference_accuracy": 0.9453125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 2,
+      "step": 8,
+      "accuracy": 0.8203125,
+      "reference_accuracy": 0.9453125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 2,
+      "step": 16,
+      "accuracy": 0.609375,
+      "reference_accuracy": 0.9453125,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 2,
+      "step": 24,
+      "accuracy": 0.6875,
+      "reference_accuracy": 0.9453125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 2,
+      "step": 32,
+      "accuracy": 0.796875,
+      "reference_accuracy": 0.9453125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 2,
+      "step": 40,
+      "accuracy": 0.8359375,
+      "reference_accuracy": 0.9453125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 2,
+      "step": 48,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.9453125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 2,
+      "step": 56,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.9453125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 2,
+      "step": 64,
+      "accuracy": 0.9296875,
+      "reference_accuracy": 0.9453125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 2,
+      "step": 72,
+      "accuracy": 0.953125,
+      "reference_accuracy": 0.9453125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 2,
+      "step": 80,
+      "accuracy": 0.953125,
+      "reference_accuracy": 0.9453125,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 2,
+      "step": 88,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.9453125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 3,
+      "step": 0,
+      "accuracy": 0.9609375,
+      "reference_accuracy": 0.9609375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 3,
+      "step": 8,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.9609375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 3,
+      "step": 16,
+      "accuracy": 0.859375,
+      "reference_accuracy": 0.9609375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 3,
+      "step": 24,
+      "accuracy": 0.8515625,
+      "reference_accuracy": 0.9609375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 3,
+      "step": 32,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.9609375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 3,
+      "step": 40,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.9609375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 3,
+      "step": 48,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.9609375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 3,
+      "step": 56,
+      "accuracy": 0.953125,
+      "reference_accuracy": 0.9609375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 3,
+      "step": 64,
+      "accuracy": 0.921875,
+      "reference_accuracy": 0.9609375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 3,
+      "step": 72,
+      "accuracy": 0.921875,
+      "reference_accuracy": 0.9609375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 3,
+      "step": 80,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.9609375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 3,
+      "step": 88,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.9609375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 4,
+      "step": 0,
+      "accuracy": 0.9375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 4,
+      "step": 8,
+      "accuracy": 0.8125,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 4,
+      "step": 16,
+      "accuracy": 0.7265625,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 4,
+      "step": 24,
+      "accuracy": 0.7421875,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 4,
+      "step": 32,
+      "accuracy": 0.7734375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 4,
+      "step": 40,
+      "accuracy": 0.8359375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 4,
+      "step": 48,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 4,
+      "step": 56,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 4,
+      "step": 64,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 4,
+      "step": 72,
+      "accuracy": 0.9375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 4,
+      "step": 80,
+      "accuracy": 0.9453125,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 4,
+      "step": 88,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 5,
+      "step": 0,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 5,
+      "step": 8,
+      "accuracy": 0.8125,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 5,
+      "step": 16,
+      "accuracy": 0.75,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 5,
+      "step": 24,
+      "accuracy": 0.7890625,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 5,
+      "step": 32,
+      "accuracy": 0.84375,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 5,
+      "step": 40,
+      "accuracy": 0.8515625,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 5,
+      "step": 48,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 5,
+      "step": 56,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 5,
+      "step": 64,
+      "accuracy": 0.859375,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 5,
+      "step": 72,
+      "accuracy": 0.8515625,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 5,
+      "step": 80,
+      "accuracy": 0.859375,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 977,
+      "stage": 5,
+      "step": 88,
+      "accuracy": 0.8515625,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 1,
+      "step": 0,
+      "accuracy": 1.0,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 1,
+      "step": 8,
+      "accuracy": 0.859375,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 1,
+      "step": 16,
+      "accuracy": 0.78125,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 1,
+      "step": 24,
+      "accuracy": 0.734375,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 1,
+      "step": 32,
+      "accuracy": 0.8125,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 1,
+      "step": 40,
+      "accuracy": 0.8671875,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 1,
+      "step": 48,
+      "accuracy": 0.9375,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 1,
+      "step": 56,
+      "accuracy": 0.953125,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 1,
+      "step": 64,
+      "accuracy": 0.9609375,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 1,
+      "step": 72,
+      "accuracy": 0.9765625,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 1,
+      "step": 80,
+      "accuracy": 0.9765625,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 1,
+      "step": 88,
+      "accuracy": 0.9765625,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 2,
+      "step": 0,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 2,
+      "step": 8,
+      "accuracy": 0.8359375,
+      "reference_accuracy": 0.875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 2,
+      "step": 16,
+      "accuracy": 0.6796875,
+      "reference_accuracy": 0.875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 2,
+      "step": 24,
+      "accuracy": 0.6953125,
+      "reference_accuracy": 0.875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 2,
+      "step": 32,
+      "accuracy": 0.7578125,
+      "reference_accuracy": 0.875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 2,
+      "step": 40,
+      "accuracy": 0.8046875,
+      "reference_accuracy": 0.875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 2,
+      "step": 48,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 2,
+      "step": 56,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 2,
+      "step": 64,
+      "accuracy": 0.8671875,
+      "reference_accuracy": 0.875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 2,
+      "step": 72,
+      "accuracy": 0.8671875,
+      "reference_accuracy": 0.875,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 2,
+      "step": 80,
+      "accuracy": 0.796875,
+      "reference_accuracy": 0.875,
+      "fraction_before": 0.125,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 2,
+      "step": 88,
+      "accuracy": 0.796875,
+      "reference_accuracy": 0.875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 3,
+      "step": 0,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 3,
+      "step": 8,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 3,
+      "step": 16,
+      "accuracy": 0.7734375,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 3,
+      "step": 24,
+      "accuracy": 0.7109375,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 3,
+      "step": 32,
+      "accuracy": 0.796875,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 3,
+      "step": 40,
+      "accuracy": 0.8359375,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 3,
+      "step": 48,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 3,
+      "step": 56,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 3,
+      "step": 64,
+      "accuracy": 0.9453125,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 3,
+      "step": 72,
+      "accuracy": 0.9375,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 3,
+      "step": 80,
+      "accuracy": 0.9375,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 3,
+      "step": 88,
+      "accuracy": 0.90625,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 4,
+      "step": 0,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 4,
+      "step": 8,
+      "accuracy": 0.7578125,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 4,
+      "step": 16,
+      "accuracy": 0.625,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 4,
+      "step": 24,
+      "accuracy": 0.71875,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 4,
+      "step": 32,
+      "accuracy": 0.796875,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 4,
+      "step": 40,
+      "accuracy": 0.8671875,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 4,
+      "step": 48,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 4,
+      "step": 56,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 4,
+      "step": 64,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 4,
+      "step": 72,
+      "accuracy": 0.8671875,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 4,
+      "step": 80,
+      "accuracy": 0.828125,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.125,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 4,
+      "step": 88,
+      "accuracy": 0.8125,
+      "reference_accuracy": 0.8828125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 5,
+      "step": 0,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 5,
+      "step": 8,
+      "accuracy": 0.8671875,
+      "reference_accuracy": 0.875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 5,
+      "step": 16,
+      "accuracy": 0.6953125,
+      "reference_accuracy": 0.875,
+      "fraction_before": 0.125,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 5,
+      "step": 24,
+      "accuracy": 0.6328125,
+      "reference_accuracy": 0.875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 5,
+      "step": 32,
+      "accuracy": 0.6640625,
+      "reference_accuracy": 0.875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 5,
+      "step": 40,
+      "accuracy": 0.75,
+      "reference_accuracy": 0.875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 5,
+      "step": 48,
+      "accuracy": 0.859375,
+      "reference_accuracy": 0.875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 5,
+      "step": 56,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 5,
+      "step": 64,
+      "accuracy": 0.921875,
+      "reference_accuracy": 0.875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 5,
+      "step": 72,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 5,
+      "step": 80,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.875,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1009,
+      "stage": 5,
+      "step": 88,
+      "accuracy": 0.8515625,
+      "reference_accuracy": 0.875,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 1,
+      "step": 0,
+      "accuracy": 0.9921875,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 1,
+      "step": 8,
+      "accuracy": 0.921875,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 1,
+      "step": 16,
+      "accuracy": 0.84375,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 1,
+      "step": 24,
+      "accuracy": 0.78125,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 1,
+      "step": 32,
+      "accuracy": 0.8125,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 1,
+      "step": 40,
+      "accuracy": 0.8515625,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 1,
+      "step": 48,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 1,
+      "step": 56,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 1,
+      "step": 64,
+      "accuracy": 0.9453125,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 1,
+      "step": 72,
+      "accuracy": 0.9609375,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 1,
+      "step": 80,
+      "accuracy": 0.96875,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 1,
+      "step": 88,
+      "accuracy": 0.9609375,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 2,
+      "step": 0,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 2,
+      "step": 8,
+      "accuracy": 0.84375,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 2,
+      "step": 16,
+      "accuracy": 0.7265625,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 2,
+      "step": 24,
+      "accuracy": 0.75,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 2,
+      "step": 32,
+      "accuracy": 0.8671875,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 2,
+      "step": 40,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 2,
+      "step": 48,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 2,
+      "step": 56,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 2,
+      "step": 64,
+      "accuracy": 0.8203125,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.125,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 2,
+      "step": 72,
+      "accuracy": 0.78125,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 2,
+      "step": 80,
+      "accuracy": 0.8125,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 2,
+      "step": 88,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 3,
+      "step": 0,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 3,
+      "step": 8,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 3,
+      "step": 16,
+      "accuracy": 0.7734375,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 3,
+      "step": 24,
+      "accuracy": 0.7421875,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 3,
+      "step": 32,
+      "accuracy": 0.8046875,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 3,
+      "step": 40,
+      "accuracy": 0.90625,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 3,
+      "step": 48,
+      "accuracy": 0.90625,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 3,
+      "step": 56,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 3,
+      "step": 64,
+      "accuracy": 0.859375,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 3,
+      "step": 72,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 3,
+      "step": 80,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 3,
+      "step": 88,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 4,
+      "step": 0,
+      "accuracy": 0.9296875,
+      "reference_accuracy": 0.9296875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 4,
+      "step": 8,
+      "accuracy": 0.859375,
+      "reference_accuracy": 0.9296875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 4,
+      "step": 16,
+      "accuracy": 0.765625,
+      "reference_accuracy": 0.9296875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 4,
+      "step": 24,
+      "accuracy": 0.765625,
+      "reference_accuracy": 0.9296875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 4,
+      "step": 32,
+      "accuracy": 0.828125,
+      "reference_accuracy": 0.9296875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 4,
+      "step": 40,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.9296875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 4,
+      "step": 48,
+      "accuracy": 0.953125,
+      "reference_accuracy": 0.9296875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 4,
+      "step": 56,
+      "accuracy": 0.9453125,
+      "reference_accuracy": 0.9296875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 4,
+      "step": 64,
+      "accuracy": 0.921875,
+      "reference_accuracy": 0.9296875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 4,
+      "step": 72,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.9296875,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 4,
+      "step": 80,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.9296875,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 4,
+      "step": 88,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.9296875,
+      "fraction_before": 0.125,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 5,
+      "step": 0,
+      "accuracy": 0.7890625,
+      "reference_accuracy": 0.7890625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 5,
+      "step": 8,
+      "accuracy": 0.8203125,
+      "reference_accuracy": 0.7890625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 5,
+      "step": 16,
+      "accuracy": 0.703125,
+      "reference_accuracy": 0.7890625,
+      "fraction_before": 0.125,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 5,
+      "step": 24,
+      "accuracy": 0.6875,
+      "reference_accuracy": 0.7890625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 5,
+      "step": 32,
+      "accuracy": 0.703125,
+      "reference_accuracy": 0.7890625,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 5,
+      "step": 40,
+      "accuracy": 0.78125,
+      "reference_accuracy": 0.7890625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 5,
+      "step": 48,
+      "accuracy": 0.8203125,
+      "reference_accuracy": 0.7890625,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 5,
+      "step": 56,
+      "accuracy": 0.828125,
+      "reference_accuracy": 0.7890625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 5,
+      "step": 64,
+      "accuracy": 0.8359375,
+      "reference_accuracy": 0.7890625,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 5,
+      "step": 72,
+      "accuracy": 0.8125,
+      "reference_accuracy": 0.7890625,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 5,
+      "step": 80,
+      "accuracy": 0.8046875,
+      "reference_accuracy": 0.7890625,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1031,
+      "stage": 5,
+      "step": 88,
+      "accuracy": 0.7890625,
+      "reference_accuracy": 0.7890625,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 1,
+      "step": 0,
+      "accuracy": 0.9765625,
+      "reference_accuracy": 0.9765625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 1,
+      "step": 8,
+      "accuracy": 0.921875,
+      "reference_accuracy": 0.9765625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 1,
+      "step": 16,
+      "accuracy": 0.6875,
+      "reference_accuracy": 0.9765625,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 1,
+      "step": 24,
+      "accuracy": 0.7421875,
+      "reference_accuracy": 0.9765625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 1,
+      "step": 32,
+      "accuracy": 0.7734375,
+      "reference_accuracy": 0.9765625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 1,
+      "step": 40,
+      "accuracy": 0.828125,
+      "reference_accuracy": 0.9765625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 1,
+      "step": 48,
+      "accuracy": 0.9296875,
+      "reference_accuracy": 0.9765625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 1,
+      "step": 56,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.9765625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 1,
+      "step": 64,
+      "accuracy": 0.96875,
+      "reference_accuracy": 0.9765625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 1,
+      "step": 72,
+      "accuracy": 0.96875,
+      "reference_accuracy": 0.9765625,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 1,
+      "step": 80,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.9765625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 1,
+      "step": 88,
+      "accuracy": 0.9453125,
+      "reference_accuracy": 0.9765625,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 2,
+      "step": 0,
+      "accuracy": 0.953125,
+      "reference_accuracy": 0.953125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 2,
+      "step": 8,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.953125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 2,
+      "step": 16,
+      "accuracy": 0.8671875,
+      "reference_accuracy": 0.953125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 2,
+      "step": 24,
+      "accuracy": 0.8671875,
+      "reference_accuracy": 0.953125,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 2,
+      "step": 32,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.953125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 2,
+      "step": 40,
+      "accuracy": 0.921875,
+      "reference_accuracy": 0.953125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 2,
+      "step": 48,
+      "accuracy": 0.921875,
+      "reference_accuracy": 0.953125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 2,
+      "step": 56,
+      "accuracy": 0.9375,
+      "reference_accuracy": 0.953125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 2,
+      "step": 64,
+      "accuracy": 0.9453125,
+      "reference_accuracy": 0.953125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 2,
+      "step": 72,
+      "accuracy": 0.9453125,
+      "reference_accuracy": 0.953125,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 2,
+      "step": 80,
+      "accuracy": 0.9296875,
+      "reference_accuracy": 0.953125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 2,
+      "step": 88,
+      "accuracy": 0.9375,
+      "reference_accuracy": 0.953125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 3,
+      "step": 0,
+      "accuracy": 0.9375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 3,
+      "step": 8,
+      "accuracy": 0.84375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 3,
+      "step": 16,
+      "accuracy": 0.703125,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 3,
+      "step": 24,
+      "accuracy": 0.6796875,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 3,
+      "step": 32,
+      "accuracy": 0.703125,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 3,
+      "step": 40,
+      "accuracy": 0.7734375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 3,
+      "step": 48,
+      "accuracy": 0.8359375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 3,
+      "step": 56,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 3,
+      "step": 64,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 3,
+      "step": 72,
+      "accuracy": 0.9453125,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 3,
+      "step": 80,
+      "accuracy": 0.9453125,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 3,
+      "step": 88,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 4,
+      "step": 0,
+      "accuracy": 0.859375,
+      "reference_accuracy": 0.859375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 4,
+      "step": 8,
+      "accuracy": 0.8125,
+      "reference_accuracy": 0.859375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 4,
+      "step": 16,
+      "accuracy": 0.6796875,
+      "reference_accuracy": 0.859375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 4,
+      "step": 24,
+      "accuracy": 0.6875,
+      "reference_accuracy": 0.859375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 4,
+      "step": 32,
+      "accuracy": 0.8046875,
+      "reference_accuracy": 0.859375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 4,
+      "step": 40,
+      "accuracy": 0.859375,
+      "reference_accuracy": 0.859375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 4,
+      "step": 48,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.859375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 4,
+      "step": 56,
+      "accuracy": 0.8671875,
+      "reference_accuracy": 0.859375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 4,
+      "step": 64,
+      "accuracy": 0.84375,
+      "reference_accuracy": 0.859375,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 4,
+      "step": 72,
+      "accuracy": 0.78125,
+      "reference_accuracy": 0.859375,
+      "fraction_before": 0.125,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 4,
+      "step": 80,
+      "accuracy": 0.765625,
+      "reference_accuracy": 0.859375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 4,
+      "step": 88,
+      "accuracy": 0.859375,
+      "reference_accuracy": 0.859375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 5,
+      "step": 0,
+      "accuracy": 0.9375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 5,
+      "step": 8,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 5,
+      "step": 16,
+      "accuracy": 0.796875,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 5,
+      "step": 24,
+      "accuracy": 0.8046875,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 5,
+      "step": 32,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 5,
+      "step": 40,
+      "accuracy": 0.9296875,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 5,
+      "step": 48,
+      "accuracy": 0.9296875,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 5,
+      "step": 56,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 5,
+      "step": 64,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 5,
+      "step": 72,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 5,
+      "step": 80,
+      "accuracy": 0.921875,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1051,
+      "stage": 5,
+      "step": 88,
+      "accuracy": 0.9296875,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 1,
+      "step": 0,
+      "accuracy": 1.0,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 1,
+      "step": 8,
+      "accuracy": 0.8671875,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 1,
+      "step": 16,
+      "accuracy": 0.8046875,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 1,
+      "step": 24,
+      "accuracy": 0.7421875,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 1,
+      "step": 32,
+      "accuracy": 0.8046875,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 1,
+      "step": 40,
+      "accuracy": 0.8671875,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 1,
+      "step": 48,
+      "accuracy": 0.875,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 1,
+      "step": 56,
+      "accuracy": 0.921875,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 1,
+      "step": 64,
+      "accuracy": 0.9453125,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 1,
+      "step": 72,
+      "accuracy": 0.9765625,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 1,
+      "step": 80,
+      "accuracy": 0.9453125,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 1,
+      "step": 88,
+      "accuracy": 0.96875,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 2,
+      "step": 0,
+      "accuracy": 0.921875,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 2,
+      "step": 8,
+      "accuracy": 0.7890625,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 2,
+      "step": 16,
+      "accuracy": 0.7109375,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 2,
+      "step": 24,
+      "accuracy": 0.7421875,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 2,
+      "step": 32,
+      "accuracy": 0.8359375,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 2,
+      "step": 40,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 2,
+      "step": 48,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 2,
+      "step": 56,
+      "accuracy": 0.921875,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 2,
+      "step": 64,
+      "accuracy": 0.9375,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 2,
+      "step": 72,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 2,
+      "step": 80,
+      "accuracy": 0.78125,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 2,
+      "step": 88,
+      "accuracy": 0.8515625,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 3,
+      "step": 0,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 3,
+      "step": 8,
+      "accuracy": 0.859375,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 3,
+      "step": 16,
+      "accuracy": 0.71875,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 3,
+      "step": 24,
+      "accuracy": 0.6796875,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 3,
+      "step": 32,
+      "accuracy": 0.7109375,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 3,
+      "step": 40,
+      "accuracy": 0.828125,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 3,
+      "step": 48,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 3,
+      "step": 56,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 3,
+      "step": 64,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 3,
+      "step": 72,
+      "accuracy": 0.84375,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 3,
+      "step": 80,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 3,
+      "step": 88,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 4,
+      "step": 0,
+      "accuracy": 0.9375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 4,
+      "step": 8,
+      "accuracy": 0.8203125,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 4,
+      "step": 16,
+      "accuracy": 0.7578125,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 4,
+      "step": 24,
+      "accuracy": 0.7890625,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 4,
+      "step": 32,
+      "accuracy": 0.8359375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 4,
+      "step": 40,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 4,
+      "step": 48,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 4,
+      "step": 56,
+      "accuracy": 0.921875,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 4,
+      "step": 64,
+      "accuracy": 0.9375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 4,
+      "step": 72,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 4,
+      "step": 80,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 4,
+      "step": 88,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 5,
+      "step": 0,
+      "accuracy": 0.921875,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 5,
+      "step": 8,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 5,
+      "step": 16,
+      "accuracy": 0.7734375,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 5,
+      "step": 24,
+      "accuracy": 0.7734375,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 5,
+      "step": 32,
+      "accuracy": 0.8203125,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 5,
+      "step": 40,
+      "accuracy": 0.921875,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 5,
+      "step": 48,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 5,
+      "step": 56,
+      "accuracy": 0.9296875,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 5,
+      "step": 64,
+      "accuracy": 0.921875,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 5,
+      "step": 72,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 5,
+      "step": 80,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1087,
+      "stage": 5,
+      "step": 88,
+      "accuracy": 0.90625,
+      "reference_accuracy": 0.921875,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 1,
+      "step": 0,
+      "accuracy": 1.0,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 1,
+      "step": 8,
+      "accuracy": 0.875,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 1,
+      "step": 16,
+      "accuracy": 0.640625,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 1,
+      "step": 24,
+      "accuracy": 0.703125,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 1,
+      "step": 32,
+      "accuracy": 0.7890625,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 1,
+      "step": 40,
+      "accuracy": 0.859375,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 1,
+      "step": 48,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 1,
+      "step": 56,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 1,
+      "step": 64,
+      "accuracy": 0.9453125,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 1,
+      "step": 72,
+      "accuracy": 0.96875,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 1,
+      "step": 80,
+      "accuracy": 0.9609375,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 1,
+      "step": 88,
+      "accuracy": 0.984375,
+      "reference_accuracy": 1.0,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 2,
+      "step": 0,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.890625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 2,
+      "step": 8,
+      "accuracy": 0.8359375,
+      "reference_accuracy": 0.890625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 2,
+      "step": 16,
+      "accuracy": 0.7578125,
+      "reference_accuracy": 0.890625,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 2,
+      "step": 24,
+      "accuracy": 0.765625,
+      "reference_accuracy": 0.890625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 2,
+      "step": 32,
+      "accuracy": 0.828125,
+      "reference_accuracy": 0.890625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 2,
+      "step": 40,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.890625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 2,
+      "step": 48,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.890625,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 2,
+      "step": 56,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.890625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 2,
+      "step": 64,
+      "accuracy": 0.84375,
+      "reference_accuracy": 0.890625,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 2,
+      "step": 72,
+      "accuracy": 0.7578125,
+      "reference_accuracy": 0.890625,
+      "fraction_before": 0.125,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 2,
+      "step": 80,
+      "accuracy": 0.734375,
+      "reference_accuracy": 0.890625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 2,
+      "step": 88,
+      "accuracy": 0.8046875,
+      "reference_accuracy": 0.890625,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 3,
+      "step": 0,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 3,
+      "step": 8,
+      "accuracy": 0.8515625,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 3,
+      "step": 16,
+      "accuracy": 0.7578125,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 3,
+      "step": 24,
+      "accuracy": 0.7578125,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 3,
+      "step": 32,
+      "accuracy": 0.8046875,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 3,
+      "step": 40,
+      "accuracy": 0.84375,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 3,
+      "step": 48,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 3,
+      "step": 56,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 3,
+      "step": 64,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 3,
+      "step": 72,
+      "accuracy": 0.8359375,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 3,
+      "step": 80,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 3,
+      "step": 88,
+      "accuracy": 0.90625,
+      "reference_accuracy": 0.8984375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 4,
+      "step": 0,
+      "accuracy": 0.859375,
+      "reference_accuracy": 0.859375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 4,
+      "step": 8,
+      "accuracy": 0.7109375,
+      "reference_accuracy": 0.859375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 4,
+      "step": 16,
+      "accuracy": 0.6640625,
+      "reference_accuracy": 0.859375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 4,
+      "step": 24,
+      "accuracy": 0.7734375,
+      "reference_accuracy": 0.859375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 4,
+      "step": 32,
+      "accuracy": 0.8515625,
+      "reference_accuracy": 0.859375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 4,
+      "step": 40,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.859375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 4,
+      "step": 48,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.859375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 4,
+      "step": 56,
+      "accuracy": 0.8515625,
+      "reference_accuracy": 0.859375,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 4,
+      "step": 64,
+      "accuracy": 0.859375,
+      "reference_accuracy": 0.859375,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 4,
+      "step": 72,
+      "accuracy": 0.8125,
+      "reference_accuracy": 0.859375,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 4,
+      "step": 80,
+      "accuracy": 0.796875,
+      "reference_accuracy": 0.859375,
+      "fraction_before": 0.125,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 4,
+      "step": 88,
+      "accuracy": 0.796875,
+      "reference_accuracy": 0.859375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 5,
+      "step": 0,
+      "accuracy": 0.8203125,
+      "reference_accuracy": 0.8203125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 5,
+      "step": 8,
+      "accuracy": 0.8515625,
+      "reference_accuracy": 0.8203125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 5,
+      "step": 16,
+      "accuracy": 0.7265625,
+      "reference_accuracy": 0.8203125,
+      "fraction_before": 0.125,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 5,
+      "step": 24,
+      "accuracy": 0.6875,
+      "reference_accuracy": 0.8203125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 5,
+      "step": 32,
+      "accuracy": 0.65625,
+      "reference_accuracy": 0.8203125,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 5,
+      "step": 40,
+      "accuracy": 0.7421875,
+      "reference_accuracy": 0.8203125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 5,
+      "step": 48,
+      "accuracy": 0.828125,
+      "reference_accuracy": 0.8203125,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 5,
+      "step": 56,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.8203125,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 5,
+      "step": 64,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.8203125,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 5,
+      "step": 72,
+      "accuracy": 0.859375,
+      "reference_accuracy": 0.8203125,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 5,
+      "step": 80,
+      "accuracy": 0.8359375,
+      "reference_accuracy": 0.8203125,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1109,
+      "stage": 5,
+      "step": 88,
+      "accuracy": 0.796875,
+      "reference_accuracy": 0.8203125,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 1,
+      "step": 0,
+      "accuracy": 0.9921875,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 1,
+      "step": 8,
+      "accuracy": 0.9296875,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 1,
+      "step": 16,
+      "accuracy": 0.78125,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 1,
+      "step": 24,
+      "accuracy": 0.75,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 1,
+      "step": 32,
+      "accuracy": 0.828125,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 1,
+      "step": 40,
+      "accuracy": 0.90625,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 1,
+      "step": 48,
+      "accuracy": 0.96875,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 1,
+      "step": 56,
+      "accuracy": 0.9609375,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 1,
+      "step": 64,
+      "accuracy": 0.96875,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 1,
+      "step": 72,
+      "accuracy": 0.96875,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 1,
+      "step": 80,
+      "accuracy": 0.953125,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 1,
+      "step": 88,
+      "accuracy": 0.9609375,
+      "reference_accuracy": 0.9921875,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 2,
+      "step": 0,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 2,
+      "step": 8,
+      "accuracy": 0.796875,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 2,
+      "step": 16,
+      "accuracy": 0.7265625,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 2,
+      "step": 24,
+      "accuracy": 0.7109375,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 2,
+      "step": 32,
+      "accuracy": 0.796875,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 2,
+      "step": 40,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 2,
+      "step": 48,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 2,
+      "step": 56,
+      "accuracy": 0.90625,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 2,
+      "step": 64,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 2,
+      "step": 72,
+      "accuracy": 0.8359375,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 2,
+      "step": 80,
+      "accuracy": 0.84375,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 2,
+      "step": 88,
+      "accuracy": 0.859375,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 3,
+      "step": 0,
+      "accuracy": 0.9375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 3,
+      "step": 8,
+      "accuracy": 0.7890625,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 3,
+      "step": 16,
+      "accuracy": 0.71875,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 3,
+      "step": 24,
+      "accuracy": 0.7578125,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 3,
+      "step": 32,
+      "accuracy": 0.828125,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 3,
+      "step": 40,
+      "accuracy": 0.8671875,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 3,
+      "step": 48,
+      "accuracy": 0.9453125,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 3,
+      "step": 56,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 3,
+      "step": 64,
+      "accuracy": 0.921875,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 3,
+      "step": 72,
+      "accuracy": 0.921875,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 3,
+      "step": 80,
+      "accuracy": 0.921875,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 3,
+      "step": 88,
+      "accuracy": 0.9375,
+      "reference_accuracy": 0.9375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 4,
+      "step": 0,
+      "accuracy": 0.9140625,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 4,
+      "step": 8,
+      "accuracy": 0.8515625,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 4,
+      "step": 16,
+      "accuracy": 0.734375,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 4,
+      "step": 24,
+      "accuracy": 0.7265625,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 4,
+      "step": 32,
+      "accuracy": 0.8203125,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 4,
+      "step": 40,
+      "accuracy": 0.8828125,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 4,
+      "step": 48,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 4,
+      "step": 56,
+      "accuracy": 0.9296875,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 4,
+      "step": 64,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.5,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 4,
+      "step": 72,
+      "accuracy": 0.9453125,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 4,
+      "step": 80,
+      "accuracy": 0.9296875,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 4,
+      "step": 88,
+      "accuracy": 0.875,
+      "reference_accuracy": 0.9140625,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 5,
+      "step": 0,
+      "accuracy": 0.8359375,
+      "reference_accuracy": 0.8359375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 5,
+      "step": 8,
+      "accuracy": 0.859375,
+      "reference_accuracy": 0.8359375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 5,
+      "step": 16,
+      "accuracy": 0.7578125,
+      "reference_accuracy": 0.8359375,
+      "fraction_before": 0.125,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 5,
+      "step": 24,
+      "accuracy": 0.671875,
+      "reference_accuracy": 0.8359375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 5,
+      "step": 32,
+      "accuracy": 0.734375,
+      "reference_accuracy": 0.8359375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 5,
+      "step": 40,
+      "accuracy": 0.8203125,
+      "reference_accuracy": 0.8359375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.75,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 5,
+      "step": 48,
+      "accuracy": 0.890625,
+      "reference_accuracy": 0.8359375,
+      "fraction_before": 0.75,
+      "fraction_after": 0.5,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 5,
+      "step": 56,
+      "accuracy": 0.953125,
+      "reference_accuracy": 0.8359375,
+      "fraction_before": 0.5,
+      "fraction_after": 0.25,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 5,
+      "step": 64,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.8359375,
+      "fraction_before": 0.25,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 5,
+      "step": 72,
+      "accuracy": 0.8984375,
+      "reference_accuracy": 0.8359375,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 5,
+      "step": 80,
+      "accuracy": 0.8515625,
+      "reference_accuracy": 0.8359375,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    },
+    {
+      "seed": 1151,
+      "stage": 5,
+      "step": 88,
+      "accuracy": 0.859375,
+      "reference_accuracy": 0.8359375,
+      "fraction_before": 0.125,
+      "fraction_after": 0.125,
+      "probe_examples": 128
+    }
+  ],
+  "schedules": [
+    {
+      "seed": 907,
+      "stage": 0,
+      "mean_fraction": 0.0
+    },
+    {
+      "seed": 907,
+      "stage": 1,
+      "mean_fraction": 0.6458333333333334
+    },
+    {
+      "seed": 907,
+      "stage": 2,
+      "mean_fraction": 0.375
+    },
+    {
+      "seed": 907,
+      "stage": 3,
+      "mean_fraction": 0.4479166666666667
+    },
+    {
+      "seed": 907,
+      "stage": 4,
+      "mean_fraction": 0.4375
+    },
+    {
+      "seed": 907,
+      "stage": 5,
+      "mean_fraction": 0.46875
+    },
+    {
+      "seed": 929,
+      "stage": 0,
+      "mean_fraction": 0.0
+    },
+    {
+      "seed": 929,
+      "stage": 1,
+      "mean_fraction": 0.5625
+    },
+    {
+      "seed": 929,
+      "stage": 2,
+      "mean_fraction": 0.5625
+    },
+    {
+      "seed": 929,
+      "stage": 3,
+      "mean_fraction": 0.5208333333333334
+    },
+    {
+      "seed": 929,
+      "stage": 4,
+      "mean_fraction": 0.375
+    },
+    {
+      "seed": 929,
+      "stage": 5,
+      "mean_fraction": 0.3854166666666667
+    },
+    {
+      "seed": 953,
+      "stage": 0,
+      "mean_fraction": 0.0
+    },
+    {
+      "seed": 953,
+      "stage": 1,
+      "mean_fraction": 0.6666666666666666
+    },
+    {
+      "seed": 953,
+      "stage": 2,
+      "mean_fraction": 0.5208333333333334
+    },
+    {
+      "seed": 953,
+      "stage": 3,
+      "mean_fraction": 0.5208333333333334
+    },
+    {
+      "seed": 953,
+      "stage": 4,
+      "mean_fraction": 0.4166666666666667
+    },
+    {
+      "seed": 953,
+      "stage": 5,
+      "mean_fraction": 0.5
+    },
+    {
+      "seed": 977,
+      "stage": 0,
+      "mean_fraction": 0.0
+    },
+    {
+      "seed": 977,
+      "stage": 1,
+      "mean_fraction": 0.5625
+    },
+    {
+      "seed": 977,
+      "stage": 2,
+      "mean_fraction": 0.6041666666666666
+    },
+    {
+      "seed": 977,
+      "stage": 3,
+      "mean_fraction": 0.625
+    },
+    {
+      "seed": 977,
+      "stage": 4,
+      "mean_fraction": 0.5833333333333334
+    },
+    {
+      "seed": 977,
+      "stage": 5,
+      "mean_fraction": 0.4583333333333333
+    },
+    {
+      "seed": 1009,
+      "stage": 0,
+      "mean_fraction": 0.0
+    },
+    {
+      "seed": 1009,
+      "stage": 1,
+      "mean_fraction": 0.6875
+    },
+    {
+      "seed": 1009,
+      "stage": 2,
+      "mean_fraction": 0.4166666666666667
+    },
+    {
+      "seed": 1009,
+      "stage": 3,
+      "mean_fraction": 0.4791666666666667
+    },
+    {
+      "seed": 1009,
+      "stage": 4,
+      "mean_fraction": 0.4583333333333333
+    },
+    {
+      "seed": 1009,
+      "stage": 5,
+      "mean_fraction": 0.375
+    },
+    {
+      "seed": 1031,
+      "stage": 0,
+      "mean_fraction": 0.0
+    },
+    {
+      "seed": 1031,
+      "stage": 1,
+      "mean_fraction": 0.6875
+    },
+    {
+      "seed": 1031,
+      "stage": 2,
+      "mean_fraction": 0.5104166666666666
+    },
+    {
+      "seed": 1031,
+      "stage": 3,
+      "mean_fraction": 0.3541666666666667
+    },
+    {
+      "seed": 1031,
+      "stage": 4,
+      "mean_fraction": 0.4270833333333333
+    },
+    {
+      "seed": 1031,
+      "stage": 5,
+      "mean_fraction": 0.2708333333333333
+    },
+    {
+      "seed": 1051,
+      "stage": 0,
+      "mean_fraction": 0.0
+    },
+    {
+      "seed": 1051,
+      "stage": 1,
+      "mean_fraction": 0.5833333333333334
+    },
+    {
+      "seed": 1051,
+      "stage": 2,
+      "mean_fraction": 0.5
+    },
+    {
+      "seed": 1051,
+      "stage": 3,
+      "mean_fraction": 0.5833333333333334
+    },
+    {
+      "seed": 1051,
+      "stage": 4,
+      "mean_fraction": 0.375
+    },
+    {
+      "seed": 1051,
+      "stage": 5,
+      "mean_fraction": 0.4791666666666667
+    },
+    {
+      "seed": 1087,
+      "stage": 0,
+      "mean_fraction": 0.0
+    },
+    {
+      "seed": 1087,
+      "stage": 1,
+      "mean_fraction": 0.6875
+    },
+    {
+      "seed": 1087,
+      "stage": 2,
+      "mean_fraction": 0.5625
+    },
+    {
+      "seed": 1087,
+      "stage": 3,
+      "mean_fraction": 0.5833333333333334
+    },
+    {
+      "seed": 1087,
+      "stage": 4,
+      "mean_fraction": 0.6041666666666666
+    },
+    {
+      "seed": 1087,
+      "stage": 5,
+      "mean_fraction": 0.3541666666666667
+    },
+    {
+      "seed": 1109,
+      "stage": 0,
+      "mean_fraction": 0.0
+    },
+    {
+      "seed": 1109,
+      "stage": 1,
+      "mean_fraction": 0.6875
+    },
+    {
+      "seed": 1109,
+      "stage": 2,
+      "mean_fraction": 0.4583333333333333
+    },
+    {
+      "seed": 1109,
+      "stage": 3,
+      "mean_fraction": 0.4583333333333333
+    },
+    {
+      "seed": 1109,
+      "stage": 4,
+      "mean_fraction": 0.3541666666666667
+    },
+    {
+      "seed": 1109,
+      "stage": 5,
+      "mean_fraction": 0.3229166666666667
+    },
+    {
+      "seed": 1151,
+      "stage": 0,
+      "mean_fraction": 0.0
+    },
+    {
+      "seed": 1151,
+      "stage": 1,
+      "mean_fraction": 0.6875
+    },
+    {
+      "seed": 1151,
+      "stage": 2,
+      "mean_fraction": 0.5625
+    },
+    {
+      "seed": 1151,
+      "stage": 3,
+      "mean_fraction": 0.5416666666666666
+    },
+    {
+      "seed": 1151,
+      "stage": 4,
+      "mean_fraction": 0.5
+    },
+    {
+      "seed": 1151,
+      "stage": 5,
+      "mean_fraction": 0.3229166666666667
+    }
+  ]
+}

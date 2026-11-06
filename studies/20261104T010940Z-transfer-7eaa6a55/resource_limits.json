@@ -1,0 +1,18 @@
+{
+  "command": [
+    ".venv/bin/python",
+    "transfer_study.py",
+    "--plan",
+    "configs/transfer_study.json"
+  ],
+  "cwd": "/home/eparenti/continual-learning-lab",
+  "cpu": 7,
+  "cpu_percent_of_one_core": 50,
+  "nice": 15,
+  "address_space_limit_mib_per_process": 2048,
+  "resident_watchdog_mib_per_group": 1024,
+  "minimum_available_memory_mib": 4096,
+  "wall_seconds_limit": 10800,
+  "library_threads": 1,
+  "memory_poll_seconds": 0.2
+}

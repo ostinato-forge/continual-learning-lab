@@ -1,0 +1,12 @@
+{
+  "status": "completed",
+  "neural_models": 50,
+  "wall_seconds": 595.9472730569996,
+  "peak_process_memory_mib": 343.0234375,
+  "manifest_sha256": "3267802d1bebd95180d77edae816e1fef24d5fe5e78b1c1f26cf052a69947f4e",
+  "condition_artifacts_sha256": {
+    "baselines": "74ae6bcb78b6ff0420a79bd42ef4ca99602aafb5afcd495aa664ec23c0f3483c",
+    "heads": "274690e64661da725e574ab7995c5766926b3be0d5fb9d544670d4eba50d3563",
+    "experts": "6149e86842ae2df307be08d0702117fa484f503c18dffc1957ad966bed1b0169"
+  }
+}

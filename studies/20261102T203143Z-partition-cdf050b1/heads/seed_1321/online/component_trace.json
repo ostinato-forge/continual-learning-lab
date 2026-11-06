@@ -1,0 +1,91 @@
+{
+  "initial": {
+    "task_0": "6ab0fdae88784eca1342ac54a613e296a7acc779a5b742fc9e1cff5fbce4522c",
+    "task_1": "12eeef09d06893f6bd0b38ccbd0ec8be7cfac482bffd520f4b79a9a9fedde5c0",
+    "task_2": "28f6a569c07d69d11fd5ed5828c7f6248efbe0b24fca0d3158a686e31c2a5869",
+    "task_3": "5a7ec92c86f98a853182143f6e697c5eaeb545b148340adbf3ed564d9e4bbaaf",
+    "task_4": "bc51ec1de22fc7fa871143b277bc24146e62b606d2f41a956644ebaa5c18f492",
+    "task_5": "6cbab27b9825ee0b2df4b82db0547ad58674a6bdf7097deb723a459ca91df7da",
+    "shared": "8f7b5c27c73165c455696298f1600f18171c75c2d0e3ccd46b3ee3340d9106ec"
+  },
+  "stages": [
+    {
+      "stage": 0,
+      "task": 4,
+      "hashes": {
+        "task_0": "6ab0fdae88784eca1342ac54a613e296a7acc779a5b742fc9e1cff5fbce4522c",
+        "task_1": "12eeef09d06893f6bd0b38ccbd0ec8be7cfac482bffd520f4b79a9a9fedde5c0",
+        "task_2": "28f6a569c07d69d11fd5ed5828c7f6248efbe0b24fca0d3158a686e31c2a5869",
+        "task_3": "5a7ec92c86f98a853182143f6e697c5eaeb545b148340adbf3ed564d9e4bbaaf",
+        "task_4": "4ad2d1a9eef0fa22b0702b34e6ff105344840d32aa3e353a467cb8378b7faa52",
+        "task_5": "6cbab27b9825ee0b2df4b82db0547ad58674a6bdf7097deb723a459ca91df7da",
+        "shared": "f25c0666a645d17baf9d8aad5ce285baf781b880801dc81c5a13fdb373af6aea"
+      }
+    },
+    {
+      "stage": 1,
+      "task": 3,
+      "hashes": {
+        "task_0": "6ab0fdae88784eca1342ac54a613e296a7acc779a5b742fc9e1cff5fbce4522c",
+        "task_1": "12eeef09d06893f6bd0b38ccbd0ec8be7cfac482bffd520f4b79a9a9fedde5c0",
+        "task_2": "28f6a569c07d69d11fd5ed5828c7f6248efbe0b24fca0d3158a686e31c2a5869",
+        "task_3": "4be63679cfcf50f33d9e4affc737158a337d7519c35eb8fb1e71a2b5ce545f5e",
+        "task_4": "4ad2d1a9eef0fa22b0702b34e6ff105344840d32aa3e353a467cb8378b7faa52",
+        "task_5": "6cbab27b9825ee0b2df4b82db0547ad58674a6bdf7097deb723a459ca91df7da",
+        "shared": "fa66a166c6d0f71d6cef19cb4290abd48d5cb1da5da74625326965a100ffa558"
+      }
+    },
+    {
+      "stage": 2,
+      "task": 2,
+      "hashes": {
+        "task_0": "6ab0fdae88784eca1342ac54a613e296a7acc779a5b742fc9e1cff5fbce4522c",
+        "task_1": "12eeef09d06893f6bd0b38ccbd0ec8be7cfac482bffd520f4b79a9a9fedde5c0",
+        "task_2": "cf1cadc997c71623fdda3a09a5fd9aa665313cfc965d0a81e9d12a35ca2dafee",
+        "task_3": "4be63679cfcf50f33d9e4affc737158a337d7519c35eb8fb1e71a2b5ce545f5e",
+        "task_4": "4ad2d1a9eef0fa22b0702b34e6ff105344840d32aa3e353a467cb8378b7faa52",
+        "task_5": "6cbab27b9825ee0b2df4b82db0547ad58674a6bdf7097deb723a459ca91df7da",
+        "shared": "2dd69dc6dd87a372582438bb3c5b4530c77838caebec1ccb9ce16a1fcc73fa63"
+      }
+    },
+    {
+      "stage": 3,
+      "task": 5,
+      "hashes": {
+        "task_0": "6ab0fdae88784eca1342ac54a613e296a7acc779a5b742fc9e1cff5fbce4522c",
+        "task_1": "12eeef09d06893f6bd0b38ccbd0ec8be7cfac482bffd520f4b79a9a9fedde5c0",
+        "task_2": "cf1cadc997c71623fdda3a09a5fd9aa665313cfc965d0a81e9d12a35ca2dafee",
+        "task_3": "4be63679cfcf50f33d9e4affc737158a337d7519c35eb8fb1e71a2b5ce545f5e",
+        "task_4": "4ad2d1a9eef0fa22b0702b34e6ff105344840d32aa3e353a467cb8378b7faa52",
+        "task_5": "29fedd233aea3ed4bbc7154bd3725a7876a5c56fadeeb85711c5db960bf65672",
+        "shared": "d3971eb3fcf4a5aed3d7bd54b32ac64c278e4ccce4d98f615973f0ea8251dd2e"
+      }
+    },
+    {
+      "stage": 4,
+      "task": 1,
+      "hashes": {
+        "task_0": "6ab0fdae88784eca1342ac54a613e296a7acc779a5b742fc9e1cff5fbce4522c",
+        "task_1": "ba99198f2887d3290a507d647b6c88e099d5a9bf3406ea0e08abd0419711811d",
+        "task_2": "cf1cadc997c71623fdda3a09a5fd9aa665313cfc965d0a81e9d12a35ca2dafee",
+        "task_3": "4be63679cfcf50f33d9e4affc737158a337d7519c35eb8fb1e71a2b5ce545f5e",
+        "task_4": "4ad2d1a9eef0fa22b0702b34e6ff105344840d32aa3e353a467cb8378b7faa52",
+        "task_5": "29fedd233aea3ed4bbc7154bd3725a7876a5c56fadeeb85711c5db960bf65672",
+        "shared": "a85dfbed96cdd963ebaa1264447c101b4b9f7e8d2fa3cccb95507ded067d14dd"
+      }
+    },
+    {
+      "stage": 5,
+      "task": 0,
+      "hashes": {
+        "task_0": "6b956eb5067b952eb3121b2a47bca7e057beefa58571eb035eac9c46d29c1e8b",
+        "task_1": "ba99198f2887d3290a507d647b6c88e099d5a9bf3406ea0e08abd0419711811d",
+        "task_2": "cf1cadc997c71623fdda3a09a5fd9aa665313cfc965d0a81e9d12a35ca2dafee",
+        "task_3": "4be63679cfcf50f33d9e4affc737158a337d7519c35eb8fb1e71a2b5ce545f5e",
+        "task_4": "4ad2d1a9eef0fa22b0702b34e6ff105344840d32aa3e353a467cb8378b7faa52",
+        "task_5": "29fedd233aea3ed4bbc7154bd3725a7876a5c56fadeeb85711c5db960bf65672",
+        "shared": "615ee3b73935c2ac10c344b3aa019eea76400aa275d54028031f2dcee9bbe0d0"
+      }
+    }
+  ]
+}

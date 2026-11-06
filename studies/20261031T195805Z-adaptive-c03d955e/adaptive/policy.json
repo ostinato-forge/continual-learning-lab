@@ -1,0 +1,13 @@
+{
+  "fractions": [
+    0.125,
+    0.25,
+    0.5,
+    0.75
+  ],
+  "initial_fraction": 0.25,
+  "probe_examples": 128,
+  "probe_interval": 8,
+  "increase_drop": 0.05,
+  "decrease_drop": 0.01
+}

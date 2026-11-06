@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "checkpoints_evaluated": 50,
+  "training_example_draws_checked": 1843200,
+  "current_batch_comparisons": 11520,
+  "allocation_batches_checked": 11520,
+  "task_end_states_reproduced": 120,
+  "inactive_component_checks": 600,
+  "independent_prediction_checks": 300,
+  "data_and_task_order_paired": true,
+  "current_only_batches_identical": true,
+  "baseline_starting_weights_identical": true,
+  "linear_references_reproduced": 10
+}

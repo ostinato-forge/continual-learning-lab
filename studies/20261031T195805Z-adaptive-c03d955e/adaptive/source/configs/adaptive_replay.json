@@ -1,0 +1,21 @@
+{
+  "experiment": "adaptive_replay_v1",
+  "base_config": "configs/pilot.json",
+  "seeds": [907, 929, 953, 977, 1009, 1031, 1051, 1087, 1109, 1151],
+  "excluded_seeds": [11, 23, 37, 53, 71, 101, 127, 149, 173, 197, 223, 251, 277, 307, 337, 601, 631, 661, 691, 719, 751, 787, 821, 853, 887],
+  "memory_capacity": 1024,
+  "fixed_replay_fraction": 0.5,
+  "controller": {
+    "fractions": [0.125, 0.25, 0.5, 0.75],
+    "initial_fraction": 0.25,
+    "probe_examples": 128,
+    "probe_interval": 8,
+    "increase_drop": 0.05,
+    "decrease_drop": 0.01
+  },
+  "final_accuracy_target": 0.8,
+  "retention_margin": 0.05,
+  "acquisition_tolerance": 0.05,
+  "required_successes": 8,
+  "wall_seconds_limit": 900
+}

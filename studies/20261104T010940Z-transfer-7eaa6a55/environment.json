@@ -1,0 +1,9 @@
+{
+  "python": "3.14.8 (main, Oct  1 2026, 00:00:00) [GCC 15.3.1 20260722 (Red Hat 15.3.1-1)]",
+  "numpy": "2.5.1",
+  "torch": "2.13.0+cpu",
+  "platform": "Linux-7.2.5-100.fc43.x86_64-x86_64-with-glibc2.42",
+  "executable": "/home/eparenti/continual-learning-lab/.venv/bin/python",
+  "device": "cpu",
+  "cpu_threads": 1
+}
