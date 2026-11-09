@@ -257,9 +257,9 @@ The separate linear reference reached 89.3 percent. It uses explicit machine
 identity and a model suited to these linear rules. Its training procedure differs
 from the neural comparison.
 
-Read the [verified report](runs/20261031T181522Z-17e36c26/report/REPORT.md) or
-view the [charts](runs/20261031T181522Z-17e36c26/report/results.png).
-The report includes all seed results, cost accounting, and limits.
+The verified report includes all seed results, cost accounting, and limits.
+Reports and charts are written under `runs/`, which this repository does not
+include.
 
 All 10 invariant checks passed. Saved-model verification reproduced all 15 neural
 models' final scores and checked 552,960 training-example presentations for
